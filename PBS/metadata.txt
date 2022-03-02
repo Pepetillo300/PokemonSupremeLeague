@@ -1,0 +1,15 @@
+﻿[000]
+PlayerA=PROTAGONISTA_M,OvProtagonistaM,OvProtagonistaMBici,OvProtagonistaMSurf_offset,OvProtagonistaMCorre,OvProtagonistaMBuceo_offset,OvProtagonistaMPesca_offset,OvProtagonistaMSurfPesca_offset
+PlayerB=PROTAGONISTA_F,OvProtagonistaF,OvProtagonistaFBici,OvProtagonistaFSurf_offset,OvProtagonistaFCorre,OvProtagonistaFBuceo_offset,OvProtagonistaFPesca_offset,OvProtagonistaFSurfPesca_offset
+TrainerBattleBGM=trainerBattle.ogg
+SurfBGM=Ship.mid
+BicycleBGM=Airship.mid
+Home=3,7,5,8
+WildBattleBGM=002-Battle02.mid
+[003]
+# PuertoSupremo
+SnapEdges=true
+BattleBack=Field
+Bicycle=true
+Outdoor=true
+ShowArea=true

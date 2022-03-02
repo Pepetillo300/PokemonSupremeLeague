@@ -1,0 +1,7 @@
+﻿# Consulta la documentación de la wiki para aprender a modificar este archivo.
+#-------------------
+ORGANIZADOR
+Alejandro,0
+1,SUPERPOTION,SUPERPOTION
+EEVEON,22,SITRUSBERRY,FLAMEWHEEL,SPARK,TAKEDOWN,BABYDOLLEYES,0,M,,,,20,255,
+#-------------------

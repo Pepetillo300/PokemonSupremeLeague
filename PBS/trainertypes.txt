@@ -1,0 +1,4 @@
+﻿# Consulta la documentación de la wiki para aprender a modificar este archivo.
+0,PROTAGONISTA_M,Entrenador,60,,,,Male,,
+1,PROTAGONISTA_F,Entrenador,60,,,,Female,,
+2,ORGANIZADOR,Organizador,30,,,,Male,50,
