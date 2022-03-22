@@ -2,3 +2,4 @@
 0,PROTAGONISTA_M,Entrenador,60,,,,Male,,
 1,PROTAGONISTA_F,Entrenador,60,,,,Female,,
 2,ORGANIZADOR,Organizador,30,,,,Male,50,
+3,CHICA_MAJA,Chica Maja,5,,,,Female,50,

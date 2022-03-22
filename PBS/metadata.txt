@@ -13,3 +13,11 @@ BattleBack=Field
 Bicycle=true
 Outdoor=true
 ShowArea=true
+[005]
+# CiudadSupremaSureste
+SnapEdges=true
+BattleBack=
+Bicycle=true
+Outdoor=true
+HealingSpot=5,15,19
+ShowArea=true
