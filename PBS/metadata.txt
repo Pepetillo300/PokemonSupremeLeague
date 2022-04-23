@@ -7,17 +7,19 @@ BicycleBGM=Airship.mid
 Home=3,7,5,8
 WildBattleBGM=002-Battle02.mid
 [003]
-# PuertoSupremo
+# Puerto Supremo
 SnapEdges=true
 BattleBack=Field
 Bicycle=true
 Outdoor=true
 ShowArea=true
 [005]
-# CiudadSupremaSureste
+# Ciudad Suprema Sureste
 SnapEdges=true
 BattleBack=
 Bicycle=true
 Outdoor=true
 HealingSpot=5,15,19
 ShowArea=true
+[008]
+# Centro Pokemon
