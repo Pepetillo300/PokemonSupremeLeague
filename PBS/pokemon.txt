@@ -3921,7 +3921,7 @@ Pokedex=Un Pokémon formado por códigos de programación. Se mueve libre en el 
 BattlerPlayerY=28
 BattlerEnemyY=22
 BattlerAltitude=3
-Evolutions=PORYGON2,TradeItem,UPGRADE
+Evolutions=PORYGON2,HoldItem,UPGRADE
 [138]
 Name=Omanyte
 InternalName=OMANYTE
