@@ -1317,7 +1317,7 @@ Name=Parasect
 InternalName=PARASECT
 Type1=BUG
 Type2=GRASS
-BaseStats=80,95,80,30,60,80
+BaseStats=80,105,80,30,60,80
 GenderRate=Female50Percent
 GrowthRate=Medium
 BaseEXP=142
@@ -1377,7 +1377,7 @@ Name=Venomoth
 InternalName=VENOMOTH
 Type1=BUG
 Type2=POISON
-BaseStats=70,65,60,95,95,85
+BaseStats=70,65,70,95,95,85
 GenderRate=Female50Percent
 GrowthRate=Medium
 BaseEXP=158
@@ -1747,7 +1747,7 @@ WildItemUncommon=KINGSROCK
 BattlerPlayerY=24
 BattlerEnemyY=26
 BattlerAltitude=0
-Evolutions=POLIWRATH,Item,WATERSTONE,POLITOED,TradeItem,KINGSROCK
+Evolutions=POLIWRATH,Item,WATERSTONE,POLITOED,HoldItem,KINGSROCK
 [62]
 Name=Poliwrath
 InternalName=POLIWRATH
@@ -1833,7 +1833,7 @@ WildItemUncommon=TWISTEDSPOON
 BattlerPlayerY=18
 BattlerEnemyY=21
 BattlerAltitude=0
-Evolutions=ALAKAZAM,Trade,
+Evolutions=ALAKAZAM,Level,40
 [65]
 Name=Alakazam
 InternalName=ALAKAZAM
@@ -1917,7 +1917,7 @@ Pokedex=Machoke lleva un cinturón para controlar su abrumadora energía. Como e
 BattlerPlayerY=30
 BattlerEnemyY=16
 BattlerAltitude=0
-Evolutions=MACHAMP,Trade,
+Evolutions=MACHAMP,Level,40
 [68]
 Name=Machamp
 InternalName=MACHAMP
@@ -2149,7 +2149,7 @@ WildItemUncommon=EVERSTONE
 BattlerPlayerY=28
 BattlerEnemyY=24
 BattlerAltitude=0
-Evolutions=GOLEM,Trade,
+Evolutions=GOLEM,Level,40
 [76]
 Name=Golem
 InternalName=GOLEM
@@ -2269,7 +2269,7 @@ WildItemUncommon=LAGGINGTAIL
 BattlerPlayerY=26
 BattlerEnemyY=30
 BattlerAltitude=0
-Evolutions=SLOWBRO,LevelNonAlolan,37,SLOWBRO,ItemAlolan,GALARICACUFF,SLOWKING,TradeItem,KINGSROCK,SLOWKING,ItemAlolan,GALARICAWREATH
+Evolutions=SLOWBRO,LevelNonAlolan,37,SLOWBRO,ItemAlolan,GALARICACUFF,SLOWKING,HoldItem,KINGSROCK,SLOWKING,ItemAlolan,GALARICAWREATH
 [80]
 Name=Slowbro
 InternalName=SLOWBRO
@@ -2481,7 +2481,7 @@ Name=Dewgong
 InternalName=DEWGONG
 Type1=WATER
 Type2=ICE
-BaseStats=90,70,85,70,90,95
+BaseStats=90,70,105,70,90,95
 GenderRate=Female50Percent
 GrowthRate=Medium
 BaseEXP=166
@@ -2677,7 +2677,7 @@ Pokedex=Es un Pokémon peligroso. Si en la oscuridad ves a uno flotando y hacié
 BattlerPlayerY=26
 BattlerEnemyY=21
 BattlerAltitude=7
-Evolutions=GENGAR,Trade,
+Evolutions=GENGAR,Level,40
 [94]
 Name=Gengar
 InternalName=GENGAR
@@ -2734,7 +2734,7 @@ Pokedex=Tiene un imán en el cerebro que le sirve de brújula para no perder la 
 BattlerPlayerY=13
 BattlerEnemyY=12
 BattlerAltitude=0
-Evolutions=STEELIX,TradeItem,METALCOAT
+Evolutions=STEELIX,HoldItem,METALCOAT
 [96]
 Name=Drowzee
 InternalName=DROWZEE
@@ -3210,7 +3210,7 @@ Pokedex=Su cuerno, que gira como un taladro, destroza altos edificios de una pas
 BattlerPlayerY=17
 BattlerEnemyY=16
 BattlerAltitude=0
-Evolutions=RHYPERIOR,TradeItem,PROTECTOR
+Evolutions=RHYPERIOR,HoldItem,PROTECTOR
 [113]
 Name=Chansey
 InternalName=CHANSEY
@@ -3354,7 +3354,7 @@ WildItemUncommon=DRAGONSCALE
 BattlerPlayerY=26
 BattlerEnemyY=18
 BattlerAltitude=2
-Evolutions=KINGDRA,TradeItem,DRAGONSCALE
+Evolutions=KINGDRA,HoldItem,DRAGONSCALE
 [118]
 Name=Goldeen
 InternalName=GOLDEEN
@@ -3528,7 +3528,7 @@ Pokedex=Es espectacular ver lo rápido que es. Su velocidad potencia las guadañ
 BattlerPlayerY=17
 BattlerEnemyY=24
 BattlerAltitude=0
-Evolutions=SCIZOR,TradeItem,METALCOAT
+Evolutions=SCIZOR,HoldItem,METALCOAT
 [124]
 Name=Jynx
 InternalName=JYNX
@@ -3587,7 +3587,7 @@ WildItemUncommon=ELECTIRIZER
 BattlerPlayerY=18
 BattlerEnemyY=21
 BattlerAltitude=0
-Evolutions=ELECTIVIRE,TradeItem,ELECTIRIZER
+Evolutions=ELECTIVIRE,HoldItem,ELECTIRIZER
 [126]
 Name=Magmar
 InternalName=MAGMAR
@@ -3615,7 +3615,7 @@ WildItemUncommon=MAGMARIZER
 BattlerPlayerY=19
 BattlerEnemyY=21
 BattlerAltitude=0
-Evolutions=MAGMORTAR,TradeItem,MAGMARIZER
+Evolutions=MAGMORTAR,HoldItem,MAGMARIZER
 [127]
 Name=Pinsir
 InternalName=PINSIR
@@ -6652,7 +6652,7 @@ Pokedex=Porygon2 fue creado por el hombre gracias a los avances científicos. Su
 BattlerPlayerY=30
 BattlerEnemyY=25
 BattlerAltitude=3
-Evolutions=PORYGONZ,TradeItem,DUBIOUSDISC
+Evolutions=PORYGONZ,HoldItem,DUBIOUSDISC
 [234]
 Name=Stantler
 InternalName=STANTLER
@@ -9959,7 +9959,7 @@ Pokedex=Feebas vive en charcas llenas de algas. Parece que el aspecto terribleme
 BattlerPlayerY=26
 BattlerEnemyY=19
 BattlerAltitude=1
-Evolutions=MILOTIC,Beauty,170,MILOTIC,TradeItem,PRISMSCALE
+Evolutions=MILOTIC,Beauty,170,MILOTIC,HoldItem,PRISMSCALE
 [350]
 Name=Milotic
 InternalName=MILOTIC
@@ -10156,7 +10156,7 @@ WildItemUncommon=KASIBBERRY
 BattlerPlayerY=14
 BattlerEnemyY=18
 BattlerAltitude=0
-Evolutions=DUSKNOIR,TradeItem,REAPERCLOTH
+Evolutions=DUSKNOIR,HoldItem,REAPERCLOTH
 [357]
 Name=Tropius
 InternalName=TROPIUS
@@ -10441,7 +10441,7 @@ WildItemUncommon=BIGPEARL
 BattlerPlayerY=28
 BattlerEnemyY=30
 BattlerAltitude=0
-Evolutions=HUNTAIL,TradeItem,DEEPSEATOOTH,GOREBYSS,TradeItem,DEEPSEASCALE
+Evolutions=HUNTAIL,HoldItem,DEEPSEATOOTH,GOREBYSS,HoldItem,DEEPSEASCALE
 [367]
 Name=Huntail
 InternalName=HUNTAIL
@@ -14799,7 +14799,7 @@ WildItemUncommon=HARDSTONE
 BattlerPlayerY=26
 BattlerEnemyY=29
 BattlerAltitude=0
-Evolutions=GIGALITH,Trade,
+Evolutions=GIGALITH,Level,40
 [526]
 Name=Gigalith
 InternalName=GIGALITH
@@ -15019,7 +15019,7 @@ Pokedex=Ejercita sus músculos cargando vigas de acero. Le encanta lucir sus mú
 BattlerPlayerY=24
 BattlerEnemyY=23
 BattlerAltitude=0
-Evolutions=CONKELDURR,Trade,
+Evolutions=CONKELDURR,Level,40
 [534]
 Name=Conkeldurr
 InternalName=CONKELDURR
@@ -16539,7 +16539,7 @@ Pokedex=Cuando presiente el peligro, expulsa por la boca ácido que lanza a sus 
 BattlerPlayerY=29
 BattlerEnemyY=26
 BattlerAltitude=0
-Evolutions=ESCAVALIER,TradeSpecies,SHELMET
+Evolutions=ESCAVALIER,Level,40
 [589]
 Name=Escavalier
 InternalName=ESCAVALIER
@@ -19083,7 +19083,7 @@ Pokedex=Su cuerpo emana una fragancia que embelesa a quien la huele. La fraganci
 BattlerPlayerY=30
 BattlerEnemyY=24
 BattlerAltitude=2
-Evolutions=AROMATISSE,TradeItem,SACHET
+Evolutions=AROMATISSE,HoldItem,SACHET
 [683]
 Name=Aromatisse
 InternalName=AROMATISSE
@@ -19136,7 +19136,7 @@ Pokedex=Escupe hebras pegajosas de color blanco y textura parecida a las del alg
 BattlerPlayerY=31
 BattlerEnemyY=25
 BattlerAltitude=0
-Evolutions=SLURPUFF,TradeItem,WHIPPEDDREAM
+Evolutions=SLURPUFF,HoldItem,WHIPPEDDREAM
 [685]
 Name=Slurpuff
 InternalName=SLURPUFF
@@ -19787,7 +19787,7 @@ Pokedex=Pokémon que nace cuando un espíritu se adentra en un tocón podrido. H
 BattlerPlayerY=29
 BattlerEnemyY=23
 BattlerAltitude=10
-Evolutions=TREVENANT,Trade,
+Evolutions=TREVENANT,Level,40
 [709]
 Name=Trevenant
 InternalName=TREVENANT
@@ -19842,7 +19842,7 @@ Pokedex=En el interior de la calabaza reside un espíritu que ha permanecido atr
 BattlerPlayerY=31
 BattlerEnemyY=25
 BattlerAltitude=15
-Evolutions=GOURGEIST,Trade,
+Evolutions=GOURGEIST,Level,40
 [711]
 Name=Gourgeist
 InternalName=GOURGEIST
