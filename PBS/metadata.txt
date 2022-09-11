@@ -1,37 +1,44 @@
 ﻿[000]
-WildBattleBGM=002-Battle02.mid
-SurfBGM=Ship.mid
+BicycleBGM=Airship.mid
 TrainerBattleBGM=trainerBattle.ogg
-Home=3,7,5,8
+WildBattleBGM=002-Battle02.mid
 PlayerB=PROTAGONISTA_F,OvProtagonistaF,OvProtagonistaFBici,OvProtagonistaFSurf_offset,OvProtagonistaFCorre,OvProtagonistaFBuceo_offset,OvProtagonistaFPesca_offset,OvProtagonistaFSurfPesca_offset
 PlayerA=PROTAGONISTA_M,OvProtagonistaM,OvProtagonistaMBici,OvProtagonistaMSurf_offset,OvProtagonistaMCorre,OvProtagonistaMBuceo_offset,OvProtagonistaMPesca_offset,OvProtagonistaMSurfPesca_offset
-BicycleBGM=Airship.mid
+SurfBGM=Ship.mid
+Home=8,6,13,8
 [003]
 # Puerto Supremo
-BattleBack=Field
 Bicycle=true
-Outdoor=true
-SnapEdges=true
 ShowArea=true
+Outdoor=true
+BattleBack=Field
+SnapEdges=true
 [005]
 # Ciudad Suprema Sureste
-BattleBack=
 Bicycle=true
-Outdoor=true
-SnapEdges=true
 ShowArea=true
+Outdoor=true
+BattleBack=
+SnapEdges=true
 HealingSpot=5,15,19
 [007]
 # Ciudad Suprema Noreste
-BattleBack=Field
 Bicycle=true
-WildBattleBGM=uwater.mid
+ShowArea=false
 Outdoor=true
+TrainerBattleBGM=trainerBattle.ogg
+WildBattleBGM=uwater.mid
+BattleBack=Field
+TrainerVictoryME=001-Victory01.ogg
 MapSize=0,
 SnapEdges=true
-TrainerBattleBGM=trainerBattle.ogg
-ShowArea=false
-TrainerVictoryME=001-Victory01.ogg
 HealingSpot=5,16,18
 [008]
 # Centro Pokemon
+[009]
+# RUTAS
+Bicycle=true
+ShowArea=false
+Outdoor=true
+BattleBack=Forest
+SnapEdges=true

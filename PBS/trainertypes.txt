@@ -4,3 +4,7 @@
 2,ORGANIZADOR,Organizador,30,,,,Male,50,
 3,CHICA_MAJA,Chica Maja,5,,,,Female,50,
 4,JACKER,Jacker,5,,,,Male,70,
+5,NATALIA,Rival,30,Videl,,,Female,50
+6,CARLA,Rival,30,Videl,,,Female,50
+7,PAULA,Rival,30,Videl,,,Female,50
+8,PAULACARLA,Rivales,30,Videl,,,Female,50
