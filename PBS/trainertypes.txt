@@ -4,7 +4,14 @@
 2,ORGANIZADOR,Organizador,30,,,,Male,50,
 3,CHICA_MAJA,Chica Maja,5,,,,Female,50,
 4,JACKER,Jacker,5,,,,Male,70,
-5,NATALIA,Rival,30,Videl,,,Female,50
-6,CARLA,Rival,30,Videl,,,Female,50
-7,PAULA,Rival,30,Videl,,,Female,50
-8,PAULACARLA,Rivales,30,Videl,,,Female,50
+5,NATALIA,Rival,30,Videl,,,Female,50,
+6,CARLA,Rival,30,Videl,,,Female,50,
+7,PAULA,Rival,30,Videl,,,Female,50,
+8,PAULACARLA,Rivales,30,Videl,,,Female,50,
+9,CARLOS1,Entrenador,30,,,,Male,50,
+10,CAZABICHOS,Cazabichos,25,,,IntroTrainer4gen,Male,80
+11,JOVEN,Joven,20,,,IntroTrainer4gen,Male,75
+12,CHICA,Chica,25,,,IntroChica4gen,Female,80
+13,PREESCOLARF,Preescolar,15,,,IntroPreescolar4gen,Female,75
+14,PREESCOLARM,Preescolar,15,,,IntroPreescolar4gen,Male,75
+15,MUJER,Mujer,30,,,IntroMujer4gen,Female,85
