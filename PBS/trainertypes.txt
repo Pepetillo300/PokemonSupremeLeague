@@ -4,10 +4,10 @@
 2,ORGANIZADOR,Organizador,30,,,,Male,50,
 3,CHICA_MAJA,Chica Maja,5,,,,Female,50,
 4,JACKER,Jacker,5,,,,Male,70,
-5,NATALIA,Rival,30,Videl,,,Female,50,
-6,CARLA,Rival,30,Videl,,,Female,50,
-7,PAULA,Rival,30,Videl,,,Female,50,
-8,PAULACARLA,Rivales,30,Videl,,,Female,50,
+5,NATALIA,Rival,30,Videl,,,Female,90,
+6,CARLA,Rival,30,Videl,,IntroRivalXY,Female,90,
+7,PAULA,Rival,30,Videl,,,Female,90,
+8,PAULACARLA,Rivales,30,Videl,,,Female,90,
 9,CARLOS1,Entrenador,30,,,,Male,50,
 10,CAZABICHOS,Cazabichos,25,,,IntroTrainer4gen,Male,80
 11,JOVEN,Joven,20,,,IntroTrainer4gen,Male,75
@@ -15,3 +15,7 @@
 13,PREESCOLARF,Preescolar,15,,,IntroPreescolar4gen,Female,75
 14,PREESCOLARM,Preescolar,15,,,IntroPreescolar4gen,Male,75
 15,MUJER,Mujer,30,,,IntroMujer4gen,Female,85
+16,NIÑAFLOTADOR,Niña Flotador,15,,,IntroPreescolar4gen,Female,75
+17,NIÑOFLOTADOR,Niño Flotador,15,,,IntroPreescolar4gen,Male,75
+18,MARINERO,Marinero,20,,,IntroMarinero4gen,Male,85
+19,LIDER1,Lider,50,Gladio,victoriaLider,,Male,100
