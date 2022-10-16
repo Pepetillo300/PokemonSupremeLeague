@@ -2,7 +2,7 @@
 WildBattleBGM=002-Battle02.mid
 Home=8,6,13,8
 SurfBGM=Ship.mid
-BicycleBGM=Airship.mid
+BicycleBGM=BicycleBGM.ogg
 TrainerBattleBGM=trainerBattle.ogg
 PlayerB=PROTAGONISTA_F,OvProtagonistaF,OvProtagonistaFBici,OvProtagonistaFSurf_offset,OvProtagonistaFCorre,OvProtagonistaFBuceo_offset,OvProtagonistaFPesca_offset,OvProtagonistaFSurfPesca_offset
 PlayerA=PROTAGONISTA_M,OvProtagonistaM,OvProtagonistaMBici,OvProtagonistaMSurf_offset,OvProtagonistaMCorre,OvProtagonistaMBuceo_offset,OvProtagonistaMPesca_offset,OvProtagonistaMSurfPesca_offset
