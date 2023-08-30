@@ -647,7 +647,7 @@
 672,STEELMEMORY,Disco Acero,Discos Acero,1,0,Disco de datos que contiene información relativa al tipo Acero. Permite cambiar de tipo a cierto Pokémon.,0,0,0,
 673,FAIRYMEMORY,Disco Hada,Discos Hada,1,0,Disco de datos que contiene información relativa al tipo Hada. Permite cambiar de tipo a cierto Pokémon.,0,0,0,
 674,INFERNAPITE,Infernapita,Infernapitas,1,0,La mas rara de las megapiedras que permite despertar el poder oculto de infernape.,0,0,0,
-675,IVHP,Batido HP, Batidos HP,2,50000,Batido que libera el poder oculto en PS de un pokemon aumentando su potencial al máximo.,1,0,0,
+675,IVHP,Batido HP,Batidos HP,2,50000,Batido que libera el poder oculto en PS de un pokemon aumentando su potencial al máximo.,1,0,0,
 676,IVATTACK,Batido ATK,Batidos ATK,2,50000,Batido que libera el poder oculto en ataque de un pokemon aumentando su potencial al máximo.,1,0,0,
 677,IVDEFENSE,Batido DEF,Batidos DEF,2,50000,Batido que libera el poder oculto en defensa de un pokemon aumentando su potencial al máximo.,1,0,0,
 678,IVSPATTACK,Batido SP-ATK,Batidos SP-ATK,2,50000,Batido que libera el poder oculto en ataque especial de un pokemon aumentando su potencial al máximo.,1,0,0,
