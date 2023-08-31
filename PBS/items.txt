@@ -666,3 +666,5 @@
 691,QUIETMINT,Menta Mansa,Mentas Mansas,2,5000,Menta misteriosa que cambia la naturaleza de un pokemon a mansa.,1,0,0,
 692,SASSYMINT,Menta Grosera,Mentas Groseras,2,5000,Menta misteriosa que cambia la naturaleza de un pokemon a grosera.,1,0,0,
 693,SERIOUSMINT,Menta Seria,Mentas Serias,2,2500,Menta misteriosa que cambia la naturaleza de un pokemon a seria.,1,0,0,
+694,EXPALL,Repartir Exp,Repartir Exps,8,0,ENCENDIDO Dispositivo que permite a todos los pokemon ganar experiencia tras cada batalla.,2,0,6,
+695,EXPALLOFF,Repartir Exp,Repartir Exps,8,0,APAGADO Dispositivo que permite a todos los pokemon ganar experiencia tras cada batalla.,2,0,6,
