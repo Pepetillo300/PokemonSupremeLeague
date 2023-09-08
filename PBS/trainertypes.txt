@@ -19,3 +19,6 @@
 17,NIÑOFLOTADOR,Niño Flotador,15,,,IntroPreescolar4gen,Male,75
 18,MARINERO,Marinero,20,,,IntroMarinero4gen,Male,85
 19,LIDER1,Lider,50,Gladio,victoriaLider,,Male,100
+20,TEAMFLAREM,Team Flare,50,TeamFlareGrunt,,IntroTeamFlare,Male,85
+21,TEAMFLAREF,Team Flare,50,TeamFlareGrunt,,IntroTeamFlare,Female,85
+22,TEAMFLAREAMAPOLA,Científica Team Flare,70,TeamFlareGrunt,,IntroTeamFlare,Female,90

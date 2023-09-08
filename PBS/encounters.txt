@@ -14,8 +14,8 @@ STUNFISK,7,11
 ARON,7,11
 MELTAN,7,11
 BELDUM,7,11
-#-------------------------------
-012 #Agua 1
+#########################
+012 # Agua1
 25,10,10
 Land
 POLIWAG,7,11
@@ -30,25 +30,21 @@ BUIZEL,7,11
 CORPHISH,7,11
 CHEWTLE,7,11
 SLOWPOKE,7,11
-
 OldRod
 MAGIKARP,7,11
 GOLDEEN,7,11
-
 GoodRod
 FINNEON,7,11
 HORSEA,7,11
 TYMPOLE,7,11
-
 SuperRod
 REMORAID,7,11
 LUVDISC,7,11
 CHINCHOU,7,11
 BARBOACH,7,11
 FEEBAS,7,11
-
-#-------------------------------
-013 #Bicho1
+#########################
+013 # Bicho1
 25,10,10
 Land
 CATERPIE,7,11
@@ -56,14 +52,13 @@ WURMPLE,7,11
 WEEDLE,7,11
 KRICKETOT,7,11
 KARRABLAST,7,11
-SHELMET,7,11,
+SHELMET,7,11
 SCATTERBUG,7,11
 BLIPBUG,7,11
 GRUBBIN,7,11
 VENONAT,7,11
 YANMA,7,11
 NINCADA,7,11
-
 LandMorning
 CATERPIE,7,11
 WURMPLE,7,11
@@ -77,7 +72,6 @@ DWEBBLE,7,11
 VENIPEDE,7,11
 VOLBEAT,7,11
 ILLUMISE,7,11
-
 LandNight
 CATERPIE,7,11
 WURMPLE,7,11
@@ -91,9 +85,8 @@ NINCADA,7,11
 WIMPOD,7,11
 PINECO,7,11
 LARVESTA,7,11
-
-#----------------------------
-014 #Dragon 1
+#########################
+014 # Dragón1
 25,10,10
 Land
 APPLIN,7,11
@@ -108,9 +101,8 @@ JANGMOO,7,11
 GIBLE,7,11
 DREEPY,7,11
 DRUDDIGON,7,11
-
-#----------------------------
-015 #Electrico 1
+#########################
+015 # Eléctrico1
 25,10,10
 Land
 VOLTORB,7,11
@@ -125,9 +117,8 @@ TYNAMO,7,11
 ELEKID,7,11
 TOXEL,7,11
 PIKACHU,7,12
-
-#-----------------------------
-016 #Fantasma 1
+#########################
+016 # Fantasma1
 25,10,10
 Land
 DRIFLOON,7,11
@@ -142,9 +133,8 @@ SANDYGAST,7,11
 SINISTEA,7,11
 DUSKULL,7,11
 DHELMISE,7,11
-
-#-----------------------------
-017 #Fuego1
+#########################
+017 # Fuego1
 25,10,10
 Land
 PANSEAR,7,11
@@ -159,9 +149,8 @@ DARUMAKA,7,11
 MAGBY,7,11
 TORKOAL,7,11
 HEATMOR,7,11
-
-#-------------------------------
-018 #Hada1
+#########################
+018 # Hada1
 25,10,10
 Land
 MILCERY,7,11
@@ -176,9 +165,8 @@ CLEFFA,7,11
 TOGEPI,7,11
 CLEFAIRY,7,11
 JIGGLYPUFF,7,11
-
-#-------------------------------
-019 #Hielo1
+#########################
+019 # Hielo1
 25,10,10
 Land
 SNORUNT,7,11
@@ -193,9 +181,8 @@ VULPIX,7,11
 DARUMAKA,7,11
 SNOM,7,11
 MRMIME,7,11
-
-#---------------------------------
-020 #Lucha 1
+#########################
+020 # Lucha1
 25,10,10
 Land
 TYROGUE,7,11
@@ -210,9 +197,8 @@ CRABRAWLER,7,11
 MAKUHITA,7,11
 RIOLU,7,11
 FARFETCHD,7,11
-
-#-------------------------------
-021 #Normal1
+#########################
+021 # Normal1
 25,10,10
 Land
 RATTATA,7,11
@@ -227,9 +213,8 @@ AIPOM,7,11
 SLAKOTH,7,11
 MINCCINO,7,11
 MUNCHLAX,7,11
-
-#----------------------------
-022 #Planta1
+#########################
+022 # Planta1
 25,10,10
 Land
 BELLSPROUT,7,11
@@ -244,7 +229,6 @@ SHROOMISH,7,11
 SKIDDO,7,11
 EXEGGCUTE,7,11
 TANGELA,7,11
-
 LandNight
 SEEDOT,7,11
 ODDISH,7,11
@@ -258,9 +242,8 @@ CACNEA,7,11
 DEERLING,7,11
 TANGELA,7,11
 CARNIVINE,7,11
-
-#----------------------------
-023 #Psíquico1
+#########################
+023 # Psiquico1
 25,10,10
 Land
 ESPURR,7,11
@@ -275,9 +258,8 @@ GOTHITA,7,11
 SOLOSIS,7,11
 RALTS,7,11
 INDEEDEE,7,11
-
-#------------------------------
-024 #Roca1
+#########################
+024 # Roca1
 25,10,10
 Land
 GEODUDE,7,11
@@ -292,9 +274,8 @@ LARVITAR,7,11
 CARBINK,7,11
 LUNATONE,7,11
 SOLROCK,7,11
-
-#-----------------------------
-025 #Siniestro1
+#########################
+025 # Siniestro1
 25,10,10
 Land
 RATTATA,7,11
@@ -309,9 +290,8 @@ VULLABY,7,11
 PAWNIARD,7,11
 ZORUA,7,11
 IMPIDIMP,7,11
-
-#-------------------------
-026 #Tierra 1
+#########################
+026 # Tierra1
 25,10,10
 Land
 DIGLETT,7,11
@@ -326,9 +306,8 @@ DRILBUR,7,11
 TRAPINCH,7,11
 RHYHORN,7,11
 GLIGAR,7,11
-
-#---------------------------
-027 #Veneno 1
+#########################
+027 # Veneno1
 25,10,10
 Land
 EKANS,7,11
@@ -343,9 +322,8 @@ STUNKY,7,11
 SKORUPI,7,11
 CROAGUNK,7,11
 MAREANIE,7,11
-
-#------------------------------
-028 #Volador 1
+#########################
+028 # Volador1
 25,10,10
 Land
 PIDGEY,7,11
@@ -360,7 +338,6 @@ ROOKIDEE,7,11
 SWABLU,7,11
 DODUO,7,11
 CRAMORANT,7,11
-
 LandNight
 HOOTHOOT,7,11
 ZUBAT,7,11
@@ -374,9 +351,8 @@ SWABLU,7,11
 DODUO,7,11
 CHATOT,7,11
 MINIOR,7,11
-
-#---------------------------
-029  #Ruta1
+#########################
+029 # Ruta1
 25,10,10
 Land
 SURSKIT,8,12
@@ -391,7 +367,19 @@ VULLABY,8,12
 JOLTIK,8,12
 INKAY,8,12
 GOOMY,8,12
-
+OldRod
+MAGIKARP,7,11
+GOLDEEN,7,11
+GoodRod
+FINNEON,7,11
+HORSEA,7,11
+TYMPOLE,7,11
+SuperRod
+CARVANHA,8,12
+BASCULIN,8,12
+CHINCHOU,8,12
+BARBOACH,8,12
+MAREANIE,8,12
 LandNight
 LOTAD,8,12
 POLIWAG,8,12
@@ -405,19 +393,3 @@ MORELULL,8,12
 WIMPOD,8,12
 INKAY,8,12
 GOOMY,8,12
-
-OldRod
-MAGIKARP,7,11
-GOLDEEN,7,11
-
-GoodRod
-FINNEON,7,11
-HORSEA,7,11
-TYMPOLE,7,11
-
-SuperRod
-CARVANHA,8,12
-BASCULIN,8,12
-CHINCHOU,8,12
-BARBOACH,8,12
-MAREANIE,8,12
