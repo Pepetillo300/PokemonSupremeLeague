@@ -4,10 +4,10 @@
 2,ORGANIZADOR,Organizador,30,,,,Male,50,
 3,CHICA_MAJA,Chica Maja,5,,,,Female,50,
 4,JACKER,Jacker,5,,,,Male,70,
-5,NATALIA,Rival,30,Videl,,,Female,90,
+5,NATALIA,Rival,30,Videl,,IntroRivalXY,Female,90,
 6,CARLA,Rival,30,Videl,,IntroRivalXY,Female,90,
-7,PAULA,Rival,30,Videl,,,Female,90,
-8,PAULACARLA,Rivales,30,Videl,,,Female,90,
+7,PAULA,Rival,30,Videl,,IntroRivalXY,Female,90,
+8,PAULACARLA,Rivales,30,Videl,,IntroRivalXY,Female,90,
 9,CARLOS1,Entrenador,30,,,,Male,50,
 10,CAZABICHOS,Cazabichos,25,,,IntroTrainer4gen,Male,80
 11,JOVEN,Joven,20,,,IntroTrainer4gen,Male,75
@@ -22,3 +22,8 @@
 20,TEAMFLAREM,Team Flare,50,TeamFlareGrunt,,IntroTeamFlare,Male,85
 21,TEAMFLAREF,Team Flare,50,TeamFlareGrunt,,IntroTeamFlare,Female,85
 22,TEAMFLAREAMAPOLA,Científica Team Flare,70,TeamFlareGrunt,,IntroTeamFlare,Female,90
+23,TEAMFLARELYSSON,Jefe Team Flare,90,Lysson,victoriaLider,,Male,110
+24,TEAMFLAREMELIA,Científica Team Flare,70,TeamFlareGrunt,,IntroTeamFlare,Female,90
+25,TEAMFLAREXERO,Científico Team Flare,70,TeamFlareGrunt,,IntroTeamFlare,Male,90
+26,COMPIPILAR,Chica Maja,10,,,,Female,90
+27,CALEYBEGO,Científicas Team Flare,90,TeamFlareGrunt,,IntroTeamFlare,Female,90
