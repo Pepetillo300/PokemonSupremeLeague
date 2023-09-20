@@ -1,211 +1,341 @@
 ﻿[000]
+Home=8,6,13,8
+WildBattleBGM=002-Battle02.mid
 PlayerB=PROTAGONISTA_F,OvProtagonistaF,OvProtagonistaFBici,OvProtagonistaFSurf_offset,OvProtagonistaFCorre,OvProtagonistaFBuceo_offset,OvProtagonistaFPesca_offset,OvProtagonistaFSurfPesca_offset
 PlayerA=PROTAGONISTA_M,OvProtagonistaM,OvProtagonistaMBici,OvProtagonistaMSurf_offset,OvProtagonistaMCorre,OvProtagonistaMBuceo_offset,OvProtagonistaMPesca_offset,OvProtagonistaMSurfPesca_offset
-WildBattleBGM=002-Battle02.mid
-BicycleBGM=BicycleBGM.ogg
 TrainerBattleBGM=trainerBattle.ogg
-Home=8,6,13,8
+BicycleBGM=BicycleBGM.ogg
 SurfBGM=Ship.mid
 [003]
 # Puerto Supremo
-BattleBack=Field
 Bicycle=true
+BattleBack=Field
 Outdoor=true
 SnapEdges=true
 ShowArea=true
 [005]
 # Ciudad Suprema Sureste
-BattleBack=
-HealingSpot=5,15,19
 Bicycle=true
+BattleBack=
 Outdoor=true
+HealingSpot=5,15,19
 SnapEdges=true
 ShowArea=true
 [007]
 # Ciudad Suprema Noreste
-WildBattleBGM=uwater.mid
+MapSize=0,
 TrainerVictoryME=001-Victory01.ogg
+Bicycle=true
+WildBattleBGM=uwater.mid
 BattleBack=Field
+Outdoor=true
 TrainerBattleBGM=trainerBattle.ogg
 HealingSpot=5,16,18
-Bicycle=true
-Outdoor=true
 SnapEdges=true
 ShowArea=false
-MapSize=0,
 [008]
 # Centro Pokemon
 [009]
 # RUTAS
-BattleBack=Forest
 Bicycle=true
+BattleBack=Forest
 Outdoor=true
 SnapEdges=true
 ShowArea=false
 [011]
 # Acero1
-WildBattleBGM=wildPokemonOro.ogg
 Bicycle=true
+WildBattleBGM=wildPokemonOro.ogg
 Outdoor=true
 SnapEdges=true
 ShowArea=true
 [012]
 # Agua1
-WildBattleBGM=wildPokemonOro.ogg
-Weather=Rain,30
 Bicycle=true
+WildBattleBGM=wildPokemonOro.ogg
 Outdoor=true
+Weather=Rain,30
 SnapEdges=true
 ShowArea=true
 [013]
 # Bicho1
-WildBattleBGM=wildPokemonOro.ogg
 Bicycle=true
+WildBattleBGM=wildPokemonOro.ogg
 Outdoor=true
 SnapEdges=true
 ShowArea=true
 [014]
 # Dragón1
-WildBattleBGM=wildPokemonOro.ogg
-Weather=Storm,10
 Bicycle=true
+WildBattleBGM=wildPokemonOro.ogg
 Outdoor=true
+Weather=Storm,10
 SnapEdges=true
 ShowArea=true
 [015]
 # Eléctrico1
-WildBattleBGM=wildPokemonOro.ogg
-Weather=Storm,20
 Bicycle=true
+WildBattleBGM=wildPokemonOro.ogg
 Outdoor=true
+Weather=Storm,20
 SnapEdges=true
 ShowArea=true
 [016]
 # Fantasma1
-WildBattleBGM=wildPokemonOro.ogg
 Bicycle=true
+WildBattleBGM=wildPokemonOro.ogg
 Outdoor=true
 SnapEdges=true
 ShowArea=true
 [017]
 # Fuego1
-WildBattleBGM=wildPokemonOro.ogg
-Weather=Sun,50
 Bicycle=true
+WildBattleBGM=wildPokemonOro.ogg
 Outdoor=true
+Weather=Sun,50
 SnapEdges=true
 ShowArea=true
 [018]
 # Hada1
-WildBattleBGM=wildPokemonOro.ogg
-HealingSpot=5,16,19
-BicycleAlways=false
 Bicycle=true
+WildBattleBGM=wildPokemonOro.ogg
+BicycleAlways=false
 Outdoor=true
+HealingSpot=5,16,19
 SnapEdges=true
 ShowArea=true
 [019]
 # Hielo1
+Bicycle=true
 WildBattleBGM=wildPokemonOro.ogg
+Outdoor=true
 Weather=Snow,50
 HealingSpot=5,16,18
-Bicycle=true
-Outdoor=true
 SnapEdges=true
 ShowArea=true
 [020]
 # Lucha1
-WildBattleBGM=wildPokemonOro.ogg
 Bicycle=true
+WildBattleBGM=wildPokemonOro.ogg
 Outdoor=true
 SnapEdges=true
 ShowArea=true
 [021]
 # Normal1
+Bicycle=true
 WildBattleBGM=wildPokemonOro.ogg
 BicycleAlways=false
-Bicycle=true
 Outdoor=true
 SnapEdges=true
 ShowArea=true
 [022]
 # Planta1
-WildBattleBGM=wildPokemonOro.ogg
-Weather=Sun,15
 Bicycle=true
+WildBattleBGM=wildPokemonOro.ogg
 Outdoor=true
+Weather=Sun,15
 SnapEdges=true
 ShowArea=true
 [023]
 # Psiquico1
-WildBattleBGM=wildPokemonOro.ogg
 Bicycle=true
+WildBattleBGM=wildPokemonOro.ogg
 Outdoor=true
 SnapEdges=true
 ShowArea=true
 [024]
 # Roca1
-WildBattleBGM=wildPokemonOro.ogg
-Weather=Sandstorm,40
 Bicycle=true
+WildBattleBGM=wildPokemonOro.ogg
 Outdoor=true
+Weather=Sandstorm,40
 SnapEdges=true
 ShowArea=true
 [025]
 # Siniestro1
-WildBattleBGM=wildPokemonOro.ogg
 Bicycle=true
+WildBattleBGM=wildPokemonOro.ogg
 Outdoor=true
 SnapEdges=true
 ShowArea=true
 [026]
 # Tierra1
-WildBattleBGM=wildPokemonOro.ogg
-Weather=Sandstorm,50
 Bicycle=true
+WildBattleBGM=wildPokemonOro.ogg
 Outdoor=true
+Weather=Sandstorm,50
 SnapEdges=true
 ShowArea=true
 [027]
 # Veneno1
-WildBattleBGM=wildPokemonOro.ogg
 Bicycle=true
+WildBattleBGM=wildPokemonOro.ogg
 Outdoor=true
 SnapEdges=true
 ShowArea=true
 [028]
 # Volador1
+MapSize=0,
+Bicycle=true
 WildBattleBGM=wildPokemonOro.ogg
 BicycleAlways=false
-Bicycle=true
 Outdoor=true
 SnapEdges=true
 ShowArea=true
-MapSize=0,
 [029]
 # Ruta1
-WildBattleBGM=wildPokemonOro.ogg
-Weather=Rain,20
-WildVictoryME=Victory - Trainer.mid
+MapSize=0,
 Bicycle=true
+WildBattleBGM=wildPokemonOro.ogg
 Outdoor=true
+WildVictoryME=Victory - Trainer.mid
+Weather=Rain,20
 SnapEdges=true
 ShowArea=true
-MapSize=0,
 [031]
 # Gimnasios
 [032]
 # GimnasioAlola
-BattleBack=playa
-TrainerBattleBGM=trainerBattle.ogg
-BicycleAlways=false
 Bicycle=false
+BattleBack=playa
+BicycleAlways=false
+TrainerBattleBGM=trainerBattle.ogg
 SnapEdges=true
 [034]
 # PuertoTeamFlare
-BattleBack=field
 DiveMap=34
 Bicycle=true
+BattleBack=field
 Outdoor=true
 SnapEdges=true
 ShowArea=false
+[036]
+# Acero2
+Bicycle=true
+WildBattleBGM=wildPokemonOro.ogg
+Outdoor=true
+SnapEdges=true
+ShowArea=true
+[037]
+# Agua2
+Bicycle=true
+WildBattleBGM=wildPokemonOro.ogg
+Outdoor=true
+Weather=Rain,30
+SnapEdges=true
+ShowArea=true
+[038]
+# Bicho2
+Bicycle=true
+WildBattleBGM=wildPokemonOro.ogg
+Outdoor=true
+SnapEdges=true
+ShowArea=true
+[039]
+# Dragón2
+Bicycle=true
+WildBattleBGM=wildPokemonOro.ogg
+Outdoor=true
+SnapEdges=true
+ShowArea=true
+[040]
+# Eléctrico2
+Bicycle=true
+WildBattleBGM=wildPokemonOro.ogg
+Outdoor=true
+SnapEdges=true
+ShowArea=true
+[041]
+# Fantasma2
+Bicycle=true
+WildBattleBGM=wildPokemonOro.ogg
+Outdoor=true
+SnapEdges=true
+ShowArea=true
+[042]
+# Fuego2
+Bicycle=true
+WildBattleBGM=wildPokemonOro.ogg
+Outdoor=true
+Weather=Sun,30
+SnapEdges=true
+ShowArea=true
+[043]
+# Hada2
+Bicycle=true
+WildBattleBGM=wildPokemonOro.ogg
+Outdoor=true
+SnapEdges=true
+ShowArea=true
+[044]
+# Hielo2
+Bicycle=true
+WildBattleBGM=wildPokemonOro.ogg
+Outdoor=true
+Weather=Snow,30
+SnapEdges=true
+ShowArea=true
+[045]
+# Lucha2
+Bicycle=true
+WildBattleBGM=wildPokemonOro.ogg
+Outdoor=true
+SnapEdges=true
+ShowArea=true
+[046]
+# Normal2
+Bicycle=true
+WildBattleBGM=wildPokemonOro.ogg
+Outdoor=true
+SnapEdges=true
+ShowArea=true
+[047]
+# Planta2
+Bicycle=true
+WildBattleBGM=wildPokemonOro.ogg
+Outdoor=true
+SnapEdges=true
+ShowArea=true
+[048]
+# Psiquico2
+Bicycle=true
+WildBattleBGM=wildPokemonOro.ogg
+Outdoor=true
+SnapEdges=true
+ShowArea=true
+[049]
+# Roca2
+Bicycle=true
+WildBattleBGM=wildPokemonOro.ogg
+Outdoor=true
+SnapEdges=true
+ShowArea=true
+[050]
+# Siniestro2
+Bicycle=true
+WildBattleBGM=wildPokemonOro.ogg
+BattleBack=
+Outdoor=true
+SnapEdges=true
+ShowArea=true
+[051]
+# Tierra2
+Bicycle=true
+WildBattleBGM=wildPokemonOro.ogg
+Outdoor=true
+SnapEdges=true
+ShowArea=true
+[052]
+# Veneno2
+Bicycle=true
+WildBattleBGM=wildPokemonOro.ogg
+Outdoor=true
+SnapEdges=true
+ShowArea=true
+[053]
+# Volador2
+Bicycle=true
+WildBattleBGM=wildPokemonOro.ogg
+Outdoor=true
+SnapEdges=true
+ShowArea=true
