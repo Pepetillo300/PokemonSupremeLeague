@@ -1,0 +1,577 @@
+﻿# Consulta la documentación en la wiki para aprender a editar este archivo.
+#-------------------------------
+[001]   # Intro
+Name = Intro
+#-------------------------------
+[003]   # Puerto Supremo
+Name = Puerto Supremo
+Outdoor = true
+ShowArea = true
+Bicycle = true
+SnapEdges = true
+BattleBack = city
+TrainerBattleBGM = Battle trainer
+WildVictoryBGM = Battle victory wild.ogg
+TrainerVictoryBGM = Battle victory trainer.ogg
+WildCaptureME = Battle capture success.ogg
+#-------------------------------
+[004]   # InterioresPuerto
+Name = InterioresPuerto
+#-------------------------------
+[005]   # Ciudad Suprema Sureste
+Name = Ciudad Suprema Sureste
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 5,15,19
+SnapEdges = true
+BattleBack = city
+WildBattleBGM = Battle wild.ogg
+TrainerBattleBGM = Battle trainer.ogg
+WildVictoryBGM = Battle victory wild.ogg
+TrainerVictoryBGM = Battle victory trainer.ogg
+WildCaptureME = Battle capture success.ogg
+#-------------------------------
+[007]   # Centro Pokemon
+Name = Centro Pokemon
+Outdoor = false
+ShowArea = false
+Bicycle = false
+HealingSpot = 5,16,18
+SnapEdges = false
+BattleBack = 
+WildBattleBGM = uwater.mid
+TrainerBattleBGM = trainerBattle.ogg
+MapSize = 0,
+#-------------------------------
+[008]   # Ciudad Suprema Noreste
+Name = Ciudad Suprema Noreste
+Outdoor = true
+ShowArea = false
+Bicycle = true
+SnapEdges = true
+BattleBack = city
+WildBattleBGM = Battle wild.ogg
+TrainerBattleBGM = Battle trainer.ogg
+WildVictoryBGM = Battle victory wild.ogg
+TrainerVictoryBGM = Battle victory trainer.ogg
+WildCaptureME = Battle capture success.ogg
+#-------------------------------
+[009]   # Gimnasios
+Name = Gimnasios
+Outdoor = false
+ShowArea = false
+Bicycle = false
+BicycleAlways = false
+HealingSpot = 5,16,19
+SnapEdges = false
+BattleBack = indoor3
+WildBattleBGM = Battle wild.ogg
+TrainerBattleBGM = Battle trainer.ogg
+WildVictoryBGM = Battle victory wild.ogg
+TrainerVictoryBGM = Battle victory trainer.ogg
+WildCaptureME = Battle capture success.ogg
+#-------------------------------
+[010]   # RUTAS
+Name = Rutas
+Outdoor = true
+ShowArea = false
+Bicycle = true
+HealingSpot = 5,15,18
+SnapEdges = true
+BattleBack = forest
+WildBattleBGM = Battle wild.ogg
+TrainerBattleBGM = Battle trainer.ogg
+WildVictoryBGM = Battle victory wild.ogg
+TrainerVictoryBGM = Battle victory trainer.ogg
+WildCaptureME = Battle capture success.ogg
+#-------------------------------
+[011]   # Acero1
+Name = Acero1
+Outdoor = true
+ShowArea = true
+Bicycle = true
+SnapEdges = true
+BattleBack = field
+WildBattleBGM = Battle wild.ogg
+TrainerBattleBGM = Battle trainer.ogg
+WildVictoryBGM = Battle victory wild.ogg
+TrainerVictoryBGM = Battle victory trainer.ogg
+WildCaptureME = Battle capture success.ogg
+Environment = Grass
+#-------------------------------
+[012]   # Agua1
+Name = Agua1
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Rain,30
+SnapEdges = true
+BattleBack = field
+WildBattleBGM = Battle wild.ogg
+TrainerBattleBGM = Battle trainer.ogg
+WildVictoryBGM = Battle victory wild.ogg
+TrainerVictoryBGM = Battle victory trainer.ogg
+WildCaptureME = Battle capture success.ogg
+Environment = Grass
+#-------------------------------
+[013]   # Bicho1
+Name = Bicho1
+Outdoor = true
+ShowArea = true
+Bicycle = true
+SnapEdges = true
+BattleBack = field
+WildBattleBGM = Battle wild.ogg
+TrainerBattleBGM = Battle trainer.ogg
+WildVictoryBGM = Battle victory wild.ogg
+TrainerVictoryBGM = Battle victory trainer.ogg
+WildCaptureME = Battle capture success.ogg
+Environment = Grass
+#-------------------------------
+[014]   # Dragón1
+Name = Dragón1
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Storm,10
+SnapEdges = true
+BattleBack = field
+WildBattleBGM = Battle wild.ogg
+TrainerBattleBGM = Battle trainer.ogg
+WildVictoryBGM = Battle victory wild.ogg
+TrainerVictoryBGM = Battle victory trainer.ogg
+WildCaptureME = Battle capture success.ogg
+Environment = Grass
+#-------------------------------
+[015]   # Eléctrico1
+Name = Eléctrico1
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Storm,20
+SnapEdges = true
+BattleBack = field
+WildBattleBGM = Battle wild.ogg
+TrainerBattleBGM = Battle trainer.ogg
+WildVictoryBGM = Battle victory wild.ogg
+TrainerVictoryBGM = Battle victory trainer.ogg
+WildCaptureME = Battle capture success.ogg
+Environment = Grass
+#-------------------------------
+[016]   # Fantasma1
+Name = Fantasma1
+Outdoor = true
+ShowArea = true
+Bicycle = true
+SnapEdges = true
+BattleBack = field
+WildBattleBGM = Battle wild.ogg
+TrainerBattleBGM = Battle trainer.ogg
+WildVictoryBGM = Battle victory wild.ogg
+TrainerVictoryBGM = Battle victory trainer.ogg
+WildCaptureME = Battle capture success.ogg
+Environment = Grass
+#-------------------------------
+[017]   # Fuego1
+Name = Fuego1
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Sun,50
+SnapEdges = true
+BattleBack = field
+WildBattleBGM = Battle wild.ogg
+TrainerBattleBGM = Battle trainer.ogg
+WildVictoryBGM = Battle victory wild.ogg
+TrainerVictoryBGM = Battle victory trainer.ogg
+WildCaptureME = Battle capture success.ogg
+Environment = Grass
+#-------------------------------
+[018]   # Hada1
+Name = Hada1
+Outdoor = true
+ShowArea = true
+Bicycle = true
+BicycleAlways = false
+HealingSpot = 5,16,19
+SnapEdges = true
+BattleBack = field
+WildBattleBGM = Battle wild.ogg
+TrainerBattleBGM = Battle trainer.ogg
+WildVictoryBGM = Battle victory wild.ogg
+TrainerVictoryBGM = Battle victory trainer.ogg
+WildCaptureME = Battle capture success.ogg
+Environment = Grass
+#-------------------------------
+[019]   # Hielo1
+Name = Hielo1
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 5,16,18
+Weather = Snow,50
+SnapEdges = true
+BattleBack = field
+WildBattleBGM = Battle wild.ogg
+TrainerBattleBGM = Battle trainer.ogg
+WildVictoryBGM = Battle victory wild.ogg
+TrainerVictoryBGM = Battle victory trainer.ogg
+WildCaptureME = Battle capture success.ogg
+Environment = Grass
+#-------------------------------
+[020]   # Lucha1
+Name = Lucha1
+Outdoor = true
+ShowArea = true
+Bicycle = true
+SnapEdges = true
+BattleBack = field
+WildBattleBGM = Battle wild.ogg
+TrainerBattleBGM = Battle trainer.ogg
+WildVictoryBGM = Battle victory wild.ogg
+TrainerVictoryBGM = Battle victory trainer.ogg
+WildCaptureME = Battle capture success.ogg
+Environment = Grass
+#-------------------------------
+[021]   # Normal1
+Name = Normal1
+Outdoor = true
+ShowArea = true
+Bicycle = true
+BicycleAlways = false
+SnapEdges = true
+BattleBack = field
+WildBattleBGM = Battle wild.ogg
+TrainerBattleBGM = Battle trainer.ogg
+WildVictoryBGM = Battle victory wild.ogg
+TrainerVictoryBGM = Battle victory trainer.ogg
+WildCaptureME = Battle capture success.ogg
+Environment = Grass
+#-------------------------------
+[022]   # Planta1
+Name = Planta1
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Sun,15
+SnapEdges = true
+BattleBack = field
+WildBattleBGM = Battle wild.ogg
+TrainerBattleBGM = Battle trainer.ogg
+WildVictoryBGM = Battle victory wild.ogg
+TrainerVictoryBGM = Battle victory trainer.ogg
+WildCaptureME = Battle capture success.ogg
+Environment = Grass
+#-------------------------------
+[023]   # Psiquico1
+Name = Psiquico1
+Outdoor = true
+ShowArea = true
+Bicycle = true
+SnapEdges = true
+BattleBack = field
+WildBattleBGM = Battle wild.ogg
+TrainerBattleBGM = Battle trainer.ogg
+WildVictoryBGM = Battle victory wild.ogg
+TrainerVictoryBGM = Battle victory trainer.ogg
+WildCaptureME = Battle capture success.ogg
+Environment = Grass
+#-------------------------------
+[024]   # Roca1
+Name = Roca1
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Sandstorm,40
+SnapEdges = true
+BattleBack = field
+WildBattleBGM = Battle wild.ogg
+TrainerBattleBGM = Battle trainer.ogg
+WildVictoryBGM = Battle victory wild.ogg
+TrainerVictoryBGM = Battle victory trainer.ogg
+WildCaptureME = Battle capture success.ogg
+Environment = Grass
+#-------------------------------
+[025]   # Siniestro1
+Name = Siniestro1
+Outdoor = true
+ShowArea = true
+Bicycle = true
+SnapEdges = true
+BattleBack = field
+WildBattleBGM = Battle wild.ogg
+TrainerBattleBGM = Battle trainer.ogg
+WildVictoryBGM = Battle victory wild.ogg
+TrainerVictoryBGM = Battle victory trainer.ogg
+WildCaptureME = Battle capture success.ogg
+Environment = Grass
+#-------------------------------
+[026]   # Tierra1
+Name = Tierra1
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Sandstorm,50
+SnapEdges = true
+BattleBack = field
+WildBattleBGM = Battle wild.ogg
+TrainerBattleBGM = Battle trainer.ogg
+WildVictoryBGM = Battle victory wild.ogg
+TrainerVictoryBGM = Battle victory trainer.ogg
+WildCaptureME = Battle capture success.ogg
+Environment = Grass
+#-------------------------------
+[027]   # Veneno1
+Name = Veneno1
+Outdoor = true
+ShowArea = true
+Bicycle = true
+SnapEdges = true
+BattleBack = field
+WildBattleBGM = Battle wild.ogg
+TrainerBattleBGM = Battle trainer.ogg
+WildVictoryBGM = Battle victory wild.ogg
+TrainerVictoryBGM = Battle victory trainer.ogg
+WildCaptureME = Battle capture success.ogg
+Environment = Grass
+#-------------------------------
+[028]   # Volador1
+Name = Volador1
+Outdoor = true
+ShowArea = true
+Bicycle = true
+BicycleAlways = false
+SnapEdges = true
+BattleBack = field
+WildBattleBGM = Battle wild.ogg
+TrainerBattleBGM = Battle trainer.ogg
+WildVictoryBGM = Battle victory wild.ogg
+TrainerVictoryBGM = Battle victory trainer.ogg
+WildCaptureME = Battle capture success.ogg
+Environment = Grass
+#-------------------------------
+[029]   # Ruta1
+Name = Ruta1
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Rain,20
+SnapEdges = true
+BattleBack = field
+WildBattleBGM = Battle wild.ogg
+TrainerBattleBGM = Battle trainer.ogg
+WildVictoryBGM = Battle victory wild.ogg
+TrainerVictoryBGM = Battle victory trainer.ogg
+WildCaptureME = Battle capture success.ogg
+Environment = Grass
+#-------------------------------
+[031]   # Capturas
+Name = Gimnasios
+#-------------------------------
+[032]   # GimnasioAlola
+Name = GimnasioAlola
+Bicycle = false
+BicycleAlways = false
+SnapEdges = true
+BattleBack = field
+WildBattleBGM = Battle wild.ogg
+TrainerBattleBGM = Battle trainer.ogg
+WildVictoryBGM = Battle victory wild.ogg
+TrainerVictoryBGM = Battle victory trainer.ogg
+WildCaptureME = Battle capture success.ogg
+#-------------------------------
+[033]   # Base Villanos
+Name = Base Villanos
+#-------------------------------
+[034]   # PuertoTeamFlare
+Name = PuertoTeamFlare
+Outdoor = true
+ShowArea = false
+Bicycle = true
+DiveMap = 34
+SnapEdges = true
+BattleBack = field
+#-------------------------------
+[036]   # Ruta2
+Name = Ruta 2
+Outdoor = true
+ShowArea = true
+Bicycle = true
+SnapEdges = true
+BattleBack = field
+WildBattleBGM = Battle wild.ogg
+TrainerBattleBGM = Battle trainer.ogg
+WildVictoryBGM = Battle victory wild.ogg
+TrainerVictoryBGM = Battle victory trainer.ogg
+WildCaptureME = Battle capture success.ogg
+#-------------------------------
+[037]   # Cueva Ruta 2
+Name = Cueva Ruta 2
+Outdoor = false
+ShowArea = false
+Bicycle = true
+SnapEdges = true
+BattleBack = cave1
+WildBattleBGM = Battle wild.ogg
+TrainerBattleBGM = Battle trainer.ogg
+WildVictoryBGM = Battle victory wild.ogg
+TrainerVictoryBGM = Battle victory trainer.ogg
+WildCaptureME = Battle capture success.ogg
+#-------------------------------
+[038]   # GimnasioOak
+Name = Gimnasio Prof Oak
+Outdoor = false
+ShowArea = false
+Bicycle = false
+SnapEdges = false
+BattleBack = indoor1
+WildBattleBGM = wildPokemonOro.ogg
+TrainerBattleBGM = Battle trainer.ogg
+WildVictoryBGM = Battle victory wild.ogg
+TrainerVictoryBGM = Battle victory trainer.ogg
+WildCaptureME = Battle capture success.ogg
+#-------------------------------
+[039]
+Name = Dragón2
+Outdoor = true
+ShowArea = true
+Bicycle = true
+SnapEdges = true
+WildBattleBGM = wildPokemonOro.ogg
+#-------------------------------
+[040]
+Name = Eléctrico2
+Outdoor = true
+ShowArea = true
+Bicycle = true
+SnapEdges = true
+WildBattleBGM = wildPokemonOro.ogg
+#-------------------------------
+[041]
+Name = Fantasma2
+Outdoor = true
+ShowArea = true
+Bicycle = true
+SnapEdges = true
+WildBattleBGM = wildPokemonOro.ogg
+#-------------------------------
+[042]
+Name = Fuego2
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Sun,30
+SnapEdges = true
+WildBattleBGM = wildPokemonOro.ogg
+#-------------------------------
+[043]
+Name = Hada2
+Outdoor = true
+ShowArea = true
+Bicycle = true
+SnapEdges = true
+WildBattleBGM = wildPokemonOro.ogg
+#-------------------------------
+[044]
+Name = Hielo2
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Snow,30
+SnapEdges = true
+WildBattleBGM = wildPokemonOro.ogg
+#-------------------------------
+[045]
+Name = Lucha2
+Outdoor = true
+ShowArea = true
+Bicycle = true
+SnapEdges = true
+WildBattleBGM = wildPokemonOro.ogg
+#-------------------------------
+[046]
+Name = Normal2
+Outdoor = true
+ShowArea = true
+Bicycle = true
+SnapEdges = true
+WildBattleBGM = wildPokemonOro.ogg
+#-------------------------------
+[047]
+Name = Planta2
+Outdoor = true
+ShowArea = true
+Bicycle = true
+SnapEdges = true
+WildBattleBGM = wildPokemonOro.ogg
+#-------------------------------
+[048]
+Name = Psiquico2
+Outdoor = true
+ShowArea = true
+Bicycle = true
+SnapEdges = true
+WildBattleBGM = wildPokemonOro.ogg
+#-------------------------------
+[049]
+Name = Roca2
+Outdoor = true
+ShowArea = true
+Bicycle = true
+SnapEdges = true
+WildBattleBGM = wildPokemonOro.ogg
+#-------------------------------
+[050]
+Name = Siniestro2
+Outdoor = true
+ShowArea = true
+Bicycle = true
+SnapEdges = true
+BattleBack = 
+WildBattleBGM = wildPokemonOro.ogg
+#-------------------------------
+[051]
+Name = Tierra2
+Outdoor = true
+ShowArea = true
+Bicycle = true
+SnapEdges = true
+WildBattleBGM = wildPokemonOro.ogg
+#-------------------------------
+[052]
+Name = Veneno2
+Outdoor = true
+ShowArea = true
+Bicycle = true
+SnapEdges = true
+WildBattleBGM = wildPokemonOro.ogg
+#-------------------------------
+[053]
+Name = Volador2
+Outdoor = true
+ShowArea = true
+Bicycle = true
+SnapEdges = true
+WildBattleBGM = wildPokemonOro.ogg
+#-------------------------------
+[054]
+Name = Ruta2
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Sun,5
+SnapEdges = true
+#-------------------------------
+[055]
+Name = Cueva Ruta2
+ShowArea = false
+Bicycle = true
+SnapEdges = true
+WildBattleBGM = wildPokemonOro.ogg
+TrainerBattleBGM = trainerBattle.ogg
+#-------------------------------
+[056]
+Name = GimnasioOak
+BattleBack = Lab
+TrainerBattleBGM = trainerBattle.ogg

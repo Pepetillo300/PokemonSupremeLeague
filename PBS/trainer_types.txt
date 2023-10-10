@@ -1,0 +1,251 @@
+﻿# Consulta la documentación en la wiki para aprender a editar este archivo.
+#-------------------------------
+[PROTAGONISTA_M]
+Name = Entrenador Pokémon
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[PROTAGONISTA_F]
+Name = Entrenadora Pokémon
+Gender = Female
+BaseMoney = 60
+#-------------------------------
+[ORGANIZADOR]
+Name = Organizador
+Gender = Male
+BaseMoney = 40
+SkillLevel = 90
+#-------------------------------
+[CHICAMAJA]
+Name = Chica Maja
+Gender = Female
+BaseMoney = 5
+SkillLevel = 90
+#-------------------------------
+[JACKER]
+Name = Jacker
+Gender = Male
+BaseMoney = 5
+SkillLevel = 90
+#-------------------------------
+[NATALIA]
+Name = Rival
+Gender = Female
+BaseMoney = 50
+SkillLevel = 90
+IntroBGM = Intro Rival XY
+BattleBGM = Battle Videl
+#-------------------------------
+[CARLA]
+Name = Rival
+Gender = Female
+BaseMoney = 50
+SkillLevel = 90
+IntroBGM = Intro Rival XY
+BattleBGM = Battle Videl
+#-------------------------------
+[PAULA]
+Name = Rival
+Gender = Female
+BaseMoney = 50
+SkillLevel = 90
+IntroBGM = Intro Rival XY
+BattleBGM = Battle Videl
+#-------------------------------
+[PAULAYCARLA]
+Name = Rivales
+Gender = Female
+BaseMoney = 50
+SkillLevel = 90
+IntroBGM = Intro Rival XY
+BattleBGM = Battle Videl
+#-------------------------------
+[CARLOS]
+Name = Ayudante
+Gender = Male
+BaseMoney = 50
+SkillLevel = 90
+#-------------------------------
+[CAZABICHOS]
+Name = Cazabichos
+Gender = Male
+BaseMoney = 25
+SkillLevel = 70
+IntroBGM = Intro Trainer 4gen
+#-------------------------------
+[JOVEN]
+Name = Joven
+Gender = Male
+BaseMoney = 20
+SkillLevel = 70
+IntroBGM = Intro Trainer 4gen
+#-------------------------------
+[CHICA]
+Name = Chica
+Gender = Female
+BaseMoney = 25
+SkillLevel = 70
+IntroBGM = Intro Chica 4gen
+#-------------------------------
+[PREESCOLARF]
+Name = Preescolar
+Gender = Female
+BaseMoney = 15
+SkillLevel = 60
+IntroBGM = Intro Preescolar 4gen
+#-------------------------------
+[PREESCOLARM]
+Name = Preescolar
+Gender = Male
+BaseMoney = 15
+SkillLevel = 60
+IntroBGM = Intro Preescolar 4gen
+#-------------------------------
+[MUJER]
+Name = Mujer
+Gender = Female
+BaseMoney = 50
+SkillLevel = 70
+IntroBGM = Intro Mujer 4gen
+#-------------------------------
+[NIÑAFLOTADOR]
+Name = Niña Flotador
+Gender = Female
+BaseMoney = 20
+SkillLevel = 60
+IntroBGM = Intro Preescolar 4gen
+#-------------------------------
+[NIÑOFLOTADOR]
+Name = Niño Flotador
+Gender = Male
+BaseMoney = 20
+SkillLevel = 60
+IntroBGM = Intro Preescolar 4gen
+#-------------------------------
+[MARINERO]
+Name = Marinero
+Gender = Male
+BaseMoney = 50
+SkillLevel = 70
+IntroBGM = Intro Marinero 4gen
+#-------------------------------
+[LIDER1]
+Name = Lider
+Gender = Male
+BaseMoney = 50
+SkillLevel = 255
+Flags = ReserveLastPokemon
+BattleBGM = Battle Gladio
+VictoryBGM = Battle victory leader
+#-------------------------------
+[TEAMFLAREM]
+Name = Team Flare
+Gender = Male
+BaseMoney = 50
+SkillLevel = 75
+IntroBGM = Intro Team Flare
+BattleBGM = Battle Team Flare Grunt
+#-------------------------------
+[TEAMFLAREF]
+Name = Team Flare
+Gender = Female
+BaseMoney = 50
+SkillLevel = 75
+IntroBGM = Intro Team Flare
+BattleBGM = Battle Team Flare Grunt
+#-------------------------------
+[TEAMFLAREAMAPOLA]
+Name = Científica Team Flare
+Gender = Female
+BaseMoney = 60
+SkillLevel = 90
+IntroBGM = Intro Team Flare
+BattleBGM = Battle Team Flare Grunt
+#-------------------------------
+[TEAMFLARELYSSON]
+Name = Jefe Team Flare
+Gender = Male
+BaseMoney = 75
+SkillLevel = 95
+BattleBGM = Battle Lysson
+VictoryBGM = Battle victory leader
+#-------------------------------
+[TEAMFLAREMELIA]
+Name = Científica Team Flare
+Gender = Female
+BaseMoney = 60
+SkillLevel = 90
+IntroBGM = Intro Team Flare
+BattleBGM = Battle Team Flare Grunt
+#-------------------------------
+[TEAMFLAREXERO]
+Name = Científico Team Flare
+Gender = Male
+BaseMoney = 60
+SkillLevel = 90
+IntroBGM = Intro Team Flare
+BattleBGM = Battle Team Flare Grunt
+#-------------------------------
+[COMPIPILAR]
+Name = Chica Maja
+Gender = Female
+BaseMoney = 10
+SkillLevel = 90
+#-------------------------------
+[CALEYBEGO]
+Name = Científicas Team Flare
+Gender = Female
+BaseMoney = 75
+SkillLevel = 90
+IntroBGM = Intro Team Flare
+BattleBGM = Battle Team Flare Grunt
+#-------------------------------
+[MONTAÑERO]
+Name = Montañero
+Gender = Male
+BaseMoney = 50
+SkillLevel = 70
+IntroBGM = Intro Montanero 4gen
+#-------------------------------
+[KARATEKA]
+Name = Karateka
+Gender = Male
+BaseMoney = 50
+SkillLevel = 70
+IntroBGM = Intro Karateka 4gen
+#-------------------------------
+[CAMPISTA]
+Name = Campista
+Gender = Male
+BaseMoney = 40
+SkillLevel = 70
+IntroBGM = Intro Trainer 4gen
+#-------------------------------
+[DOMINGUERA]
+Name = Dominguera
+Gender = Female
+BaseMoney = 40
+SkillLevel = 70
+IntroBGM = Intro Mujer 4gen
+#-------------------------------
+[CIENTIFICO]
+Name = Cientifico
+Gender = Male
+BaseMoney = 50
+SkillLevel = 75
+IntroBGM = Intro Cientifico
+#-------------------------------
+[CIENTIFICA]
+Name = Cientifica
+Gender = Female
+BaseMoney = 50
+SkillLevel = 75
+IntroBGM = Intro Cientifico
+#-------------------------------
+[LIDER2]
+Name = Lider
+Gender = Male
+BaseMoney = 60
+SkillLevel = 90
+BattleBGM = Battle Oak Lance
+VictoryBGM = Battle victory leader

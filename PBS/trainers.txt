@@ -1,331 +1,1315 @@
-﻿# Consulta la documentación de la wiki para aprender a modificar este archivo.
-#-------------------
-ORGANIZADOR
-Alejandro,0
-1,
-EEVEON,22,SITRUSBERRY,FLAMEWHEEL,SPARK,TAKEDOWN,BABYDOLLEYES,0,M,,,,20,255,
-#-------------------
-CHICA_MAJA
-Pilar,0
-1,
-JIGGLYPUFF,6,ORANBERRY,POUND,SING,FAIRYWIND,DEFENSECURL,0,,,,MODEST,20,255,
-#-------------------
-JACKER
-Victor,0
-1,
-PORYGON,8,ORANBERRY,
-#-------------------
-JACKER
-Victor,1
-1,
-PORYGON,24,ORANBERRY,
-#-------------------
-JACKER
-Victor,2
-1,
-PORYGON,35,EVIOLITE,TOXIC,PROTECT,DISCHARGE,RECOVER,0,,,,MODEST,30,
-#-------------------
-JACKER
-Victor,3
-1,
-PORYGON2,41,EVIOLITE,TOXIC,TRIATTACK,DISCHARGE,RECOVER,0,,,,MODEST,30,
-#-------------------
-JACKER
-Victor,4
-1,
-PORYGON2,47,EVIOLITE,TOXIC,TRIATTACK,DISCHARGE,RECOVER,0,,,,MODEST,30,
-#-------------------
-JACKER
-Victor,5
-2,
-PORYGON2,55,EVIOLITE,TOXIC,TRIATTACK,DISCHARGE,RECOVER,0,,,,MODEST,30,
-PORYGONZ,55,CHOICESPECS,HYPERBEAM,,,,0,,,,MODEST,30,
-#-------------------
-JACKER
-Victor,6
-2,
-PORYGON2,63,EVIOLITE,TOXIC,TRIATTACK,DISCHARGE,RECOVER,0,,,,MODEST,30,
-PORYGONZ,63,CHOICESPECS,HYPERBEAM,,,,0,,,,MODEST,30,
-#-------------------
-JACKER
-Victor,7
-2,
-PORYGON2,70,EVIOLITE,TOXIC,TRIATTACK,DISCHARGE,RECOVER,0,,,,MODEST,30,
-PORYGONZ,70,CHOICESPECS,HYPERBEAM,,,,0,,,,MODEST,30,
-#-------------------
-JACKER
-Victor,8
-2,
-PORYGON2,78,EVIOLITE,TOXIC,TRIATTACK,DISCHARGE,RECOVER,0,,,,MODEST,30,
-PORYGONZ,78,CHOICESPECS,HYPERBEAM,,,,0,,,,MODEST,30,
-#-------------------
-NATALIA
-Natalia,0
-1,
-CHIKORITA,8,ORANBERRY,RAZORLEAF,POISONPOWDER,GROWL,,0,F,,,,20,
-#-------------------
-PAULACARLA
-Carla y Paula,0
-2,
-FENNEKIN,7,ORANBERRY,,,,,0,F,,,MODEST,20,
-PIPLUP,7,ORANBERRY,BUBBLE,PECK,GROWL,,0,F,,,,20,
-#-------------------
-CARLOS1
-Carlos,0
-1,SUPERPOTION
-HOUNDOUR,9,ORANBERRY,HOWL,EMBER,PURSUIT,,0,M,,,,20,
-#-------------------
-CAZABICHOS
-Herran,0
-4,
-CASCOON,9,ORANBERRY,TOXICSPIKES,BUGBITE,STRINGSHOT,,0,M,,,BOLD,10,100,,,POKEBALL
-KAKUNA,8,RAWSTBERRY,POISONSTING,BUGBITE,PROTECT,PURSUIT,0,M,0,,ADAMANT,,,,,NETBALL,
-METAPOD,9,WIDELENS,ELECTROWEB,HARDEN,BUGBITE,TACKLE,0,F,,,TIMID,12,200,,,NETBALL,
-SPEWPA,8,COBABERRY,STRUGGLEBUG,ELECTROWEB,PROTECT,MEGADRAIN,0,F,3,,CALM,15,220,,,NETBALL,
-#--------------------
-JOVEN
-Manu,0
-3,
-ZIGZAGOON,9,ORANBERRY,HEADBUTT,YAWN,SANDATTACK,PURSUIT,1,M,1,,IMPISH,10,150,,,POKEBALL,
-STARLY,11,MUSCLEBAND,QUICKATTACK,WINGATTACK,DOUBLETEAM,,0,F,0,,ADAMANT,10,200,,,POKEBALL,
-SENTRET,10,WATERGEM,SURF,COVET,PURSUIT,COIL,3,M,0,,DOCILE,15,210,,,POKEBALL,
-#--------------------
-CHICA
-Estela,0
-3,
-GULPIN,11,CUSTAPBERRY,ENCORE,DESTINYBOND,SLUDGE,,1,M,0,,CALM,5,200,,,POKEBALL,
-TYMPOLE,13,DAMPROCK,BUBBLEBEAM,MUDSHOT,RAINDANCE,,1,F,0,,MODEST,18,100,,,POKEBALL,
-BUIZEL,12,MYSTICWATER,WATERPULSE,AQUAJET,ICYWIND,DOUBLETEAM,0,M,0,,QUIRKY,20,200,,,POKEBALL,
-#--------------------
-PREESCOLARF
-Luna,0
-5,
-PICHU,11,LIGHTCLAY,NUZZLE,DOUBLETEAM,LIGHTSCREEN,CHARGEBEAM,0,M,0,,TIMID,20,200,,,POKEBALL,
-TOGEPI,13,ORANBERRY,YAWN,WORKUP,BATONPASS,EXTRASENSORY,1,F,0,,LONELY,20,190,,,POKEBALL,
-SMOOCHUM,13,CHOICESCARF,ICYWIND,PSYSHOCK,CHARGEBEAM,,0,F,0,,MODEST,20,200,,,POKEBALL,
-RIOLU,10,FOCUSSASH,REVERSAL,,,,1,M,0,,ADAMANT,20,200,,,POKEBALL,
-MARILL,12,SITRUSBERRY,WATERFALL,PLAYROUGH,AQUAJET,ICEPUNCH,1,F,0,,ADAMANT,20,200,,,SUPERBALL,
-#--------------------
-MUJER
-Gloria,0
-3,
-LOMBRE,12,COBABERRY,FAKEOUT,BUBBLEBEAM,GIGADRAIN,KNOCKOFF,0,F,0,,MODEST,20,110,,,POKEBALL,
-HELIOLISK,14,POWERHERB,WATERGUN,SHOCKWAVE,RAZORWIND,,0,M,0,,MODEST,20,200,,,POKEBALL,
-STUFFUL,12,NORMALGEM,STRENGTH,BRUTALSWING,STOMPINGTANTRUM,LOWSWEEP,0,M,0,,ADAMANT,20,255,,,LUXURYBALL,
-#--------------------
-CARLA
-Carla,0
-2,
-ESPURR,14,COLBURBERRY,FAKEOUT,PSYBEAM,LIGHTSCREEN,DISARMINGVOICE,1,M,0,,CALM,25,180,,,SUPERBALL,
-PRINPLUP,16,BERRYJUICE,METALCLAW,BUBBLEBEAM,PLUCK,AQUAJET,2,F,0,,HARDY,30,200,,,POKEBALL,
-#--------------------
-NIÑAFLOTADOR
-Claudia,0
-3,
-GRUBBIN,16,,,,,,1,F,0,,ADAMANT,17,100,,,
-SALANDIT,15,AIRBALLOON,DRAGONRAGE,,,,0,F,0,,TIMID,13,150,,,
-SANDYGAST,16,PASSHOBERRY,,,,,0,M,0,,BOLD,15,150,,,
-#---------------------
-NIÑOFLOTADOR
-Marcos,0
-3,
-MEOWTH,16,DARKGEM,HYPNOSIS,FEINT,FAKEOUT,QUICKATTACK,1,M,1,,ADAMANT,18,100,,,,
-DIGLETT,15,BERRYJUICE,,,,,1,M,1,,ADAMANT,20,100,,,
-VULPIX,16,OCCABERRY,,,,,1,F,1,,MODEST,20,100,,,
-#------------------------
-MARINERO
-Pedro,0
-2,
-CRABRAWLER,16,SHELLBELL,DRAINPUNCH,BUBBLEBEAM,PURSUIT,,1,M,0,,ADAMANT,20,200,,,POKEBALL
-MAREANIE,15,SITRUSBERRY,TOXIC,BANEFULBUNKER,SPIKECANNON,WATERPULSE,0,F,0,,SASSY,20,100,,,,
-#--------------------------
-LIDER1
-Gladio,0
-3,
-MUDBRAY,17,BERRYJUICE,HIGHHORSEPOWER,SUBSTITUTE,ROCKTOMB,STEALTHROCK,1,M,0,,CAREFUL,25,200,,,POKEBALL
-TORRACAT,18,ASSAULTVEST,FAKEOUT,BITE,FIREFANG,DOUBLEKICK,2,M,0,,ADAMANT,25,200,,,POKEBALL
-TYPENULL,20,CHESTOBERRY,CRUSHCLAW,PURSUIT,REST,SLEEPTALK,0,,0,,ADAMANT,25,100,,,BEASTBALL
-#--------------------------
-TEAMFLAREM
-Recluta Pierre,0
-2,
-SCRAGGY,18,CHOPLEBERRY,BITE,TOXIC,PROTECT,LOWSWEEP,2,M,0,,ADAMANT,20,200,,,POKEBALL
-LIEPARD,18,SITRUSBERRY,THUNDERWAVE,FAKEOUT,SNARL,SUBSTITUTE,2,F,0,,HARDY,20,100,,,SUPERBALL,
-#--------------------------
-TEAMFLAREF
-Recluta Susan,0
-3,
-FLOETTE,18,BIGROOT,DRAININGKISS,WISH,GIGADRAIN,ATTRACT,1,F,0,,BOLD,20,200,,,POKEBALL
-PANCHAM,18,EXPERTBELT,LOWSWEEP,THUNDERPUNCH,FIREPUNCH,ICEPUNCH,0,F,0,,ADAMANT,20,100,,,POKEBALL,
-FURFROU,19,CHOPLEBERRY,SANDATTACK,HEADBUTT,UTURN,BITE,3,F,0,,JOLLY,20,200,,,SUPERBALL,
-#--------------------------
-TEAMFLAREM
-Recluta Louis,0
-1,
-DIGGERSBY,20,MUSCLEBAND,QUICKATTACK,BULLDOZE,DOUBLEKICK,ROCKTOMB,2,M,0,,BOLD,20,200,,,POKEBALL
-#--------------------------
-TEAMFLAREF
-Recluta Sam,0
-2,
-INKAY,20,LIGHTCLAY,REFLECT,LIGHTSCREEN,HYPNOSIS,PAYBACK,0,F,0,,IMPISH,20,200,,,POKEBALL
-SKRELP,21,MYSTICWATER,SCALD,MUDDYWATER,ACIDSPRAY,ICYWIND,2,F,0,,MODEST,20,200,,,POKEBALL
-#--------------------------
-TEAMFLAREM
-Recluta Frank,0
-3,
-BINACLE,18,RINDOBERRY,CLAMP,ROCKSLIDE,AERIALACE,POWERUPPUNCH,0,M,0,,ADAMANT,20,200,,,POKEBALL
-HONEDGE,18,BERRYJUICE,SWORDSDANCE,SHADOWSNEAK,AERIALACE,FURYCUTTER,0,,0,,ADAMANT,20,200,,,POKEBALL
-QUILLADIN,20,QUICKCLAW,LEECHSEED,NEEDLEARM,BULKUP,BULLDOZE,2,M,0,,BOLD,20,200,,,POKEBALL
-#--------------------------
-TEAMFLAREAMAPOLA
-Amapola,0
-3,
-MIGHTYENA,21,DARKGEM,THIEF,ICEFANG,FIREFANG,THUNDERFANG,0,F,0,,ADAMANT,25,200,,,DUSKBALL
-DEDENNE,21,SITRUSBERRY,VOLTSWITCH,NUZZLE,DRAININGKISS,CHARM,0,F,0,,BOLD,25,200,,,POKEBALL
-DRUDDIGON,22,EXPERTBELT,DRAGONTAIL,ROCKTOMB,CRUNCH,BULLDOZE,1,M,0,,ADAMANT,25,200,,,ULTRABALL
-#--------------------------
-TEAMFLARELYSSON
-Lysson,0
-4,
-KLEFKI,23,LIGHTCLAY,LIGHTSCREEN,REFLECT,THUNDERWAVE,DAZZLINGGLEAM,0,,0,,CALM,30,200,,,POKEBALL
-SYLVEON,23,LEFTOVERS,DRAININGKISS,BABYDOLLEYES,SUBSTITUTE,MAGICALLEAF,0,F,0,,BOLD,30,200,,,POKEBALL
-MURKROW,24,EVIOLITE,WINGATTACK,ASSURANCE,ROOST,STEELWING,1,M,0,,ADAMANT,30,200,,,POKEBALL
-GYARADOS,25,WACANBERRY,DRAGONTAIL,BITE,ICEFANG,BULLDOZE,0,M,0,TRUE,ADAMANT,31,200,,,POKEBALL
-#--------------------------
-TEAMFLAREMELIA
-Melia,0
-3,
-SNEASEL,22,FOCUSSASH,SWORDSDANCE,ICESHARD,FEINTATTACK,LOWKICK,2,F,0,,ADAMANT,25,200,,,DUSKBALL
-ABSOL,22,SCOPELENS,PURSUIT,SLASH,AERIALACE,QUICKATTACK,1,F,0,,ADAMANT,25,200,,,LUXURYBALL
-HOUNDOOM,24,WISEGLASSES,SNARL,INCINERATE,NASTYPLOT,HEX,1,F,0,,MODEST,25,200,,,ULTRABALL
-#--------------------------
-TEAMFLAREXERO
-Xero,0
-3,
-INKAY,22,ROSELIBERRY,NIGHTSLASH,PSYCHOCUT,HYPNOSIS,SUBSTITUTE,0,M,0,,ADAMANT,25,200,,,DUSKBALL
-GOLBAT,22,EVIOLITE,TOXIC,PROTECT,ROOST,WINGATTACK,0,M,0,,IMPISH,25,200,,,LUXURYBALL
-TREVENANT,24,SITRUSBERRY,SHADOWCLAW,LEECHSEED,WILLOWISP,RAZORLEAF,2,M,0,,CAREFUL,25,200,,,ULTRABALL
-#--------------------------
-COMPIPILAR
-Pilar,0
-3,
-KIRLIA,25,FOCUSSASH,HYPNOSIS,DRAININGKISS,PSYBEAM,LIFEDEW,1,F,0,,MODEST,25,200,,,POKEBALL
-JIGGLYPUFF,23,EVIOLITE,SING,ECHOEDVOICE,DAZZLINGGLEAM,WATERPULSE,2,F,0,,BOLD,25,200,,,POKEBALL
-TOGETIC,23,SITRUSBERRY,LIFEDEW,AIRCUTTER,DRAININGKISS,ANCIENTPOWER,1,F,0,,MODEST,25,200,,,POKEBALL
-#--------------------------
-CALEYBEGO
-Calendula Y Begonia,0
-6,
-SKORUPI,24,BLACKSLUDGE,TOXICSPIKES,KNOCKOFF,POISONFANG,BUGBITE,0,M,0,,CAREFUL,25,200,,,POKEBALL
-PAWNIARD,24,CHOPLEBERRY,METALCLAW,STEALTHROCK,AERIALACE,ASSURANCE,0,F,0,,ADAMANT,25,200,,,POKEBALL
-LIEPARD,24,FOCUSSASH,THUNDERWAVE,FAKEOUT,SNARL,SUBSTITUTE,2,F,0,,HARDY,20,100,,,POKEBALL,
-BRAIXEN,24,EVIOLITE,PSYBEAM,INCINERATE,WILLOWISP,LIGHTSCREEN,2,F,0,,MODEST,25,200,,,POKEBALL
-MANECTRIC,26,LIFEORB,CHARGEBEAM,SNARL,PROTECT,FLAMEBURST,0,F,0,,MODEST,25,200,,,POKEBALL
-MAWILE,26,SITRUSBERRY,ROCKSLIDE,SUCKERPUNCH,FIREFANG,SWORDSDANCE,1,F,0,,ADAMANT,25,200,,,POKEBALL
-#-------------------
-NATALIA
-Natalia,1
-3,
-SHELLOS,26,SITRUSBERRY,WATERPULSE,MUDBOMB,ICYWIND,RECOVER,1,F,0,,CALM,25,200,,,POKEBALL
-SWABLU,27,EVIOLITE,TOXIC,ROOST,COTTONGUARD,BODYSLAM,1,F,0,,IMPISH,25,200,,,POKEBALL
-BAYLEEF,27,ROCKYHELMET,GIGADRAIN,SYNTHESIS,TOXIC,ANCIENTPOWER,2,F,0,,BOLD,25,200,,,POKEBALL
-#-------------------
-CAMPISTA
-Edu,0
-2,
-LUXIO,26,ZAPPLATE,THUNDERFANG,BITE,ICEFANG,IRONTAIL,1,F,0,,ADAMANT,20,200,,,POKEBALL
-PHANPY,29,ZOOMLENS,FISSURE,,,,1,F,0,,BOLD,20,200,,,POKEBALL
-#-------------------
-MONTAÑERO
-Paco,0
-3,
-GEODUDE,26,NORMALGEM,SELFDESTRUCT,,,,1,F,0,,ADAMANT,20,200,,,DUSKBALL
-GEODUDE,26,EVIOLITE,ROCKTOMB,BULLDOZE,FIREPUNCH,BRICKBREAK,1,M,0,,BOLD,20,200,,,DUSKBALL
-GRAVELER,28,AIRBALLOON,THUNDERPUNCH,ROCKSLIDE,BULLDOZE,THUNDERWAVE,1,M,1,,ADAMANT,20,200,,,DUSKBALL
-#-------------------
-KARATEKA
-Jesus,0
-2,
-MACHOKE,28,TOXICORB,PROTECT,LOWSWEEP,THIEF,DUALCHOP,1,M,0,,ADAMANT,20,200,,,POKEBALL
-GURDURR,28,ASSAULTVEST,SMACKDOWN,MACHPUNCH,ICEPUNCH,KNOCKOFF,2,M,0,,ADAMANT,20,200,,,POKEBALL
-#-------------------
-DOMINGUERA
-Cecilia,0
-3,
-DWEBBLE,27,SITRUSBERRY,ROCKSLIDE,BUGBITE,KNOCKOFF,SWORDSDANCE,2,M,0,,JOLLY,20,200,,,NETBALL
-KLINK,27,OCCABERRY,SHIFTGEAR,GEARGRIND,SPARK,,2,M,0,,ADAMANT,20,200,,,SUPERBALL
-CARBINK,27,PASSHOBERRY,ANCIENTPOWER,MISTYEXPLOSION,TOXIC,PROTECT,0,M,0,,BOLD,20,200,,,ULTRABALL
-#-------------------
-CHICA
-Teresa,0
-1,
-ALCREMIE,30,SITRUSBERRY,MAGICALLEAF,DRAININGKISS,MYSTICALFIRE,AROMATHERAPY,0,F,0,,MODEST,20,200,,,LOVEBALL
-#-------------------
-MONTAÑERO
-Luis,0
-3,
-BOLDORE,27,CHOPLEBERRY,STEALTHROCK,SMACKDOWN,IRONDEFENSE,BULLDOZE,0,M,0,,IMPISH,20,200,,,DUSKBALL
-NOSEPASS,27,CHESTOBERRY,THUNDERWAVE,ROCKSLIDE,SPARK,REST,0,M,0,,CAREFUL,20,200,,,PREMIERBALL
-SUDOWOODO,29,SITRUSBERRY,MIMIC,ROCKSLIDE,SUCKERPUNCH,LOWKICK,0,M,1,,ADAMANT,20,200,,,HEAVYBALL
-#-------------------
-CAMPISTA
-Alberto,0
-2,
-LOUDRED,28,CHOPLEBERRY,WATERPULSE,ICYWIND,ROUND,SHOCKWAVE,2,M,0,,MODEST,20,200,,,LUXURYBALL
-LAIRON,30,AIRBALLOON,IRONHEAD,ROCKSLIDE,AERIALACE,DOUBLETEAM,0,M,0,,CAREFUL,20,200,,,PREMIERBALL
-#-------------------
-DOMINGUERA
-Sheila,0
-1,
-MILTANK,31,SITRUSBERRY,MILKDRINK,ZENHEADBUTT,STOMP,ATTRACT,0,F,0,,JOLLY,20,200,,,NETBALL
-#-------------------
-MONTAÑERO
-Juan,0
-2,
-SILICOBRA,30,SMOOTHROCK,GLARE,BULLDOZE,MINIMIZE,BRUTALSWING,0,M,0,,IMPISH,20,200,,,DUSKBALL
-KROKOROK,30,POWERHERB,CRUNCH,DIG,ROCKTOMB,AERIALACE,0,M,0,,ADAMANT,20,200,,,PREMIERBALL
-#-------------------
-KARATEKA
-Sebas,0
-3,
-HITMONTOP,30,BLACKBELT,FAKEOUT,TRIPLEKICK,TRIPLEAXEL,RAPIDSPIN,0,M,0,,ADAMANT,20,200,,,TIMERBALL
-HITMONLEE,30,SITRUSBERRY,BRICKBREAK,FAKEOUT,BLAZEKICK,BOUNCE,2,M,0,,ADAMANT,20,200,,,POKEBALL
-HITMONCHAN,30,EXPERTBELT,DRAINPUNCH,FIREPUNCH,ICEPUNCH,DRAINPUNCH,1,M,0,,ADAMANT,20,200,,,ULTRABALL
-#-------------------
-JOVEN
-Marc,0
-1,
-URSARING,32,TOXICORB,SLASH,PAYBACK,SHADOWCLAW,FURYCUTTER,1,M,0,,JOLLY,20,200,,,SUPERBALL
-#-------------------
-CIENTIFICO
-Mario,0
-3,
-COMBUSKEN,31,EXPERTBELT,FIREPUNCH,LOWSWEEP,BULKUP,FEATHERDANCE,2,M,0,,JOLLY,25,200,,,SUPERBALL
-GROVYLE,31,SITRUSBERRY,GIGADRAIN,DETECT,DOUBLETEAM,ROUND,2,M,0,,MODEST,25,200,,,LOVEBALL
-MARSHTOMP,31,RINDOBERRY,ROCKSLIDE,BULLDOZE,WATERFALL,ICEPUNCH,0,M,0,,ADAMANT,25,200,,,TIMERBALL
-#-------------------
-CIENTIFICA
-Patty,0
-3,
-DRIZZILE,32,SCOPELENS,WATERPULSE,UTURN,FOCUSENERGY,ROUND,2,F,0,,MODEST,25,200,,,SUPERBALL
-RABOOT,32,EXPERTBELT,FIREPUNCH,DOUBLEKICK,UTURN,ASSURANCE,2,F,0,,ADAMANT,25,200,,,LOVEBALL
-THWACKEY,32,GRASSYSEED,SEEDBOMB,KNOCKOFF,ACROBATICS,DRAINPUNCH,2,F,0,,ADAMANT,25,200,,,TIMERBALL
-#-------------------
-CIENTIFICO
-Agustin,0
-3,
-PIGNITE,33,SITRUSBERRY,ASSURANCE,FIREPUNCH,THUNDERPUNCH,BRICKBREAK,2,M,0,,ADAMANT,25,200,,,POKEBALL
-SERVINE,33,LEFTOVERS,LEECHSEED,GIGADRAIN,SYNTHESIS,WRAP,2,M,0,,MODEST,25,200,,,POKEBALL
-DEWOTT,33,MUSCLEBAND,RAZORSHELL,KNOCKOFF,AERIALACE,XSCISSOR,2,M,0,,ADAMANT,25,200,,,POKEBALL
-#-------------------
-LIDER2
-Oak,0
-3,
-BLASTOISE,34,SITRUSBERRY,FLASHCANNON,SCALD,ICEBEAM,AURASPHERE,2,M,0,,MODEST,30,200,,,POKEBALL
-VENUSAUR,34,LEFTOVERS,LEECHSEED,GIGADRAIN,SYNTHESIS,SLUDGEBOMB,2,M,0,,BOLD,30,200,,,POKEBALL
-CHARIZARD,34,LIFEORB,AIRSLASH,FLAMETHROWER,DRAGONPULSE,ROOST,2,M,0,,MODEST,30,200,,,POKEBALL
-#-------------------
-LIDER2
-Oak,1
-1,
-PIKACHU,37,LIGHTBALL,THUNDERBOLT,SURF,DRAININGKISS,SIGNALBEAM,2,M,0,,TIMID,30,200,,,POKEBALL
+﻿# Consulta la documentación en la wiki para aprender a editar este archivo.
+#-------------------------------
+[ORGANIZADOR,Alejandro]
+LoseText = Increible, has podido vencerme.
+Pokemon = EEVEON,22
+    Gender = male
+    Moves = FLAMEWHEEL,SPARK,TAKEDOWN,BABYDOLLEYES
+    AbilityIndex = 0
+    Item = SITRUSBERRY
+    Nature = ADAMANT
+    IV = 31,20,20,20,0,20
+    EV = 0,0,0,0,0,0
+    Happiness = 200
+    Ball = POKEBALL
+#-------------------------------
+[CHICAMAJA,Pilar]
+LoseText = Que pokeeemon mas fuertes.
+Pokemon = JIGGLYPUFF,6
+    Gender = female
+    Moves = POUND,SING,FAIRYWIND,DEFENSECURL
+    AbilityIndex = 0
+    Item = ORANBERRY
+    Nature = SERIOUS
+    IV = 20,20,20,20,20,20
+    EV = 0,0,0,0,0,0
+    Happiness = 200
+    Ball = POKEBALL
+#-------------------------------
+[COMPIPILAR,Pilar]
+LoseText = Noooooo, hemos perdido.
+Pokemon = KIRLIA,24
+    Gender = female
+    Moves = HYPNOSIS,DRAININGKISS,PSYBEAM,LIFEDEW
+    AbilityIndex = 1
+    Item = FOCUSSASH
+    Nature = MODEST
+    IV = 27,25,20,25,29,27
+    EV = 58,12,35,50,56,38
+    Happiness = 200
+    Ball = POKEBALL
+Pokemon = JIGGLYPUFF,23
+    Gender = female
+    Moves = SING,ECHOEDVOICE,DAZZLINGGLEAM,WATERPULSE
+    AbilityIndex = 2
+    Item = EVIOLITE
+    Nature = BOLD
+    IV = 25,12,27,22,27,26
+    EV = 40,12,48,31,30,47
+    Happiness = 200
+    Ball = POKEBALL
+Pokemon = TOGETIC,23
+    Gender = female
+    Moves = LIFEDEW,AIRCUTTER,DRAININGKISS,ANCIENTPOWER
+    AbilityIndex = 1
+    Item = SITRUSBERRY
+    Nature = MODEST
+    IV = 26,12,24,24,24,27
+    EV = 46,8,34,20,39,42
+    Happiness = 200
+    Ball = POKEBALL
+#-------------------------------
+[JACKER,Victor]
+LoseText = Bah, la proxima vez verás.
+Pokemon = PORYGON,8
+    IV = 20,20,20,20,20,20
+#-------------------------------
+[JACKER,Victor,1]
+LoseText = Bah, la proxima vez verás.
+Pokemon = PORYGON,24
+    IV = 20,20,20,20,20,20
+#-------------------------------
+[JACKER,Victor,2]
+LoseText = Bah, la proxima vez verás.
+Pokemon = PORYGON,35
+    Moves = TOXIC,PROTECT,DISCHARGE,RECOVER
+    AbilityIndex = 0
+    Item = EVIOLITE
+    Nature = MODEST
+    IV = 20,20,20,20,20,20
+    EV = 60,0,30,0,30,30
+    Happiness = 200
+    Ball = POKEBALL
+#-------------------------------
+[JACKER,Victor,3]
+LoseText = Bah, la proxima vez verás.
+Pokemon = PORYGON2,41
+    Moves = TOXIC,TRIATTACK,DISCHARGE,RECOVER
+    AbilityIndex = 0
+    Item = EVIOLITE
+    Nature = MODEST
+    IV = 20,20,20,20,20,20
+    EV = 65,0,35,0,35,35
+    Happiness = 200
+    Ball = POKEBALL
+#-------------------------------
+[JACKER,Victor,4]
+LoseText = Bah, la proxima vez verás.
+Pokemon = PORYGON2,47
+    Moves = TOXIC,TRIATTACK,DISCHARGE,RECOVER
+    AbilityIndex = 0
+    Item = EVIOLITE
+    Nature = MODEST
+    IV = 20,20,20,20,20,20
+    EV = 70,0,40,0,45,45
+    Happiness = 200
+    Ball = POKEBALL
+#-------------------------------
+[JACKER,Victor,5]
+LoseText = Bah, la proxima vez verás.
+Pokemon = PORYGON2,55
+    Moves = TOXIC,TRIATTACK,DISCHARGE,RECOVER
+    AbilityIndex = 0
+    Item = EVIOLITE
+    Nature = MODEST
+    IV = 20,20,20,20,20,20
+    EV = 70,0,40,0,45,45
+    Happiness = 200
+    Ball = POKEBALL
+Pokemon = PORYGONZ,55
+    Moves = HYPERBEAM
+    AbilityIndex = 0
+    Item = CHOICESCARF
+    Nature = MODEST
+    IV = 20,20,20,20,20,20
+    EV = 70,0,20,70,95,25
+    Happiness = 200
+    Ball = POKEBALL
+#-------------------------------
+[JACKER,Victor,6]
+LoseText = Bah, la proxima vez verás.
+Pokemon = PORYGON2,63
+    Moves = TOXIC,TRIATTACK,DISCHARGE,RECOVER
+    AbilityIndex = 0
+    Item = EVIOLITE
+    Nature = MODEST
+    IV = 20,20,20,20,20,20
+    EV = 70,0,50,0,45,75
+    Happiness = 200
+    Ball = POKEBALL
+Pokemon = PORYGONZ,63
+    Moves = HYPERBEAM
+    AbilityIndex = 0
+    Item = CHOICESCARF
+    Nature = MODEST
+    IV = 20,20,20,20,20,20
+    EV = 70,0,20,80,105,25
+    Happiness = 200
+    Ball = POKEBALL
+#-------------------------------
+[JACKER,Victor,7]
+LoseText = Bah, la proxima vez verás.
+Pokemon = PORYGON2,70
+    Moves = TOXIC,TRIATTACK,DISCHARGE,RECOVER
+    AbilityIndex = 0
+    Item = EVIOLITE
+    Nature = MODEST
+    IV = 20,20,20,20,20,20
+    EV = 90,0,80,0,65,95
+    Happiness = 200
+    Ball = POKEBALL
+Pokemon = PORYGONZ,70
+    Moves = HYPERBEAM
+    AbilityIndex = 0
+    Item = CHOICESCARF
+    Nature = MODEST
+    IV = 20,20,20,20,20,20
+    EV = 70,0,20,100,135,25
+    Happiness = 200
+    Ball = POKEBALL
+#-------------------------------
+[JACKER,Victor,8]
+LoseText = Bah, la proxima vez verás.
+Pokemon = PORYGON2,78
+    Moves = TOXIC,TRIATTACK,DISCHARGE,RECOVER
+    AbilityIndex = 0
+    Item = EVIOLITE
+    Nature = MODEST
+    IV = 30,30,30,30,30,30
+    EV = 128,0,128,0,64,128
+    Happiness = 200
+    Ball = POKEBALL
+Pokemon = PORYGONZ,78
+    Moves = HYPERBEAM
+    AbilityIndex = 0
+    Item = CHOICESCARF
+    Nature = MODEST
+    IV = 30,30,30,30,30,30
+    EV = 0,0,0,164,252,0
+    Happiness = 200
+    Ball = POKEBALL
+#-------------------------------
+[NATALIA,Natalia]
+LoseText = Vaya, has podido conmigo.
+Pokemon = CHIKORITA,8
+    Gender = female
+    Moves = RAZORLEAF,POISONPOWDER,GROWL
+    AbilityIndex = 0
+    Item = ORANBERRY
+    Nature = IMPISH
+    IV = 20,20,20,20,20,20
+    EV = 0,0,0,0,0,0
+    Happiness = 200
+    Ball = POKEBALL
+#-------------------------------
+[NATALIA,Natalia,1]
+LoseText = Bah, ha sido suerte.
+Pokemon = SHELLOS,23
+    Gender = female
+    Moves = WATERPULSE,MUDBOMB,ICYWIND,RECOVER
+    AbilityIndex = 1
+    Item = SITRUSBERRY
+    Nature = CALM
+    IV = 27,5,27,10,28,26
+    EV = 41,2,48,12,39,50
+    Happiness = 200
+    Ball = POKEBALL
+Pokemon = SWABLU,24
+    Gender = female
+    Moves = TOXIC,ROOST,COTTONGUARD,BODYSLAM
+    AbilityIndex = 1
+    Item = EVIOLITE
+    Nature = IMPISH
+    IV = 28,28,27,25,10,25
+    EV = 47,35,40,25,3,34
+    Happiness = 200
+    Ball = POKEBALL
+Pokemon = BAYLEEF,25
+    Gender = female
+    Moves = GIGADRAIN,SYNTHESIS,TOXIC,ANCIENTPOWER
+    AbilityIndex = 2
+    Item = ROCKYHELMET
+    Nature = BOLD
+    IV = 25,10,27,23,26,26
+    EV = 38,5,34,29,39,49
+    Happiness = 200
+    Ball = POKEBALL
+#-------------------------------
+[CARLA,Carla]
+LoseText = Bah, no te lo creas tanto.
+Pokemon = ESPURR,14
+    Gender = male
+    Moves = FAKEOUT,PSYBEAM,LIGHTSCREEN,DISARMINGVOICE
+    AbilityIndex = 1
+    Item = COLBURBERRY
+    Nature = CALM
+    IV = 20,20,20,20,20,20
+    EV = 19,18,26,15,36,29
+    Happiness = 200
+    Ball = ULTRABALL
+Pokemon = PRINPLUP,16
+    Gender = female
+    Moves = METALCLAW,PLUCK,AQUAJET,CHARM
+    AbilityIndex = 2
+    Item = BERRYJUICE
+    Nature = ADAMANT
+    IV = 23,25,22,20,0,22
+    EV = 31,29,16,18,0,24
+    Happiness = 200
+    Ball = POKEBALL
+#-------------------------------
+[PAULAYCARLA,Paula y Carla]
+LoseText = Increible, nos has vencido.
+Pokemon = FENNEKIN,7
+    Gender = female
+    Moves = SCRATCH,GROWL,EMBER
+    AbilityIndex = 0
+    Item = ORANBERRY
+    Nature = DOCILE
+    IV = 20,20,20,20,20,20
+    EV = 0,0,0,0,0,0
+    Happiness = 200
+    Ball = POKEBALL
+Pokemon = PIPLUP,7
+    Gender = female
+    Moves = BUBBLE,PECK,GROWL
+    AbilityIndex = 0
+    Item = ORANBERRY
+    Nature = DOCILE
+    IV = 20,20,20,20,20,20
+    EV = 0,0,0,0,0,0
+    Happiness = 200
+    Ball = POKEBALL
+#-------------------------------
+[CARLOS,Carlos]
+LoseText = Ya me avisó Alejandro, eres muy fuerte.
+Pokemon = HOUNDOUR,9
+    Gender = male
+    Moves = HOWL,EMBER,PURSUIT
+    AbilityIndex = 0
+    Item = ORANBERRY
+    Nature = DOCILE
+    IV = 20,20,20,20,20,20
+    EV = 0,0,0,0,0,0
+    Happiness = 200
+    Ball = POKEBALL
+#-------------------------------
+[CAZABICHOS,Herran]
+LoseText = Noooo, mis bichos.
+Pokemon = CASCOON,9
+    Gender = male
+    Moves = TOXICSPIKES,BUGBITE,STRINGSHOT
+    AbilityIndex = 0
+    Item = ORANBERRY
+    Nature = BOLD
+    IV = 15,20,15,10,5,20
+    EV = 0,0,0,0,0,0
+    Happiness = 200
+    Ball = POKEBALL
+Pokemon = KAKUNA,9
+    Gender = male
+    Moves = POISONSTING,BUGBITE,PROTECT,PURSUIT
+    AbilityIndex = 0
+    Item = RAWSTBERRY
+    Nature = DOCILE
+    IV = 20,20,10,10,5,20
+    EV = 0,0,0,0,0,0
+    Happiness = 200
+    Ball = POKEBALL
+Pokemon = METAPOD,9
+    Gender = female
+    Moves = ELECTROWEB,HARDEN,BUGBITE,TACKLE
+    AbilityIndex = 0
+    Item = WIDELENS
+    Nature = DOCILE
+    IV = 20,20,12,10,20,12
+    EV = 0,0,0,0,0,0
+    Happiness = 200
+    Ball = POKEBALL
+Pokemon = SPEWPA,8
+    Gender = female
+    Moves = STRUGGLEBUG,ELECTROWEB,PROTECT,MEGADRAIN
+    AbilityIndex = 0
+    Item = COBABERRY
+    Nature = MODEST
+    IV = 20,0,20,20,20,20
+    EV = 0,0,0,0,0,0
+    Happiness = 200
+    Ball = POKEBALL
+#-------------------------------
+[JOVEN,Manu]
+LoseText = Mis queridos pokemon han perdido.
+Pokemon = ZIGZAGOON,9
+    Form = 1
+    Gender = male
+    Moves = HEADBUTT,YAWN,SANDATTACK,PURSUIT
+    AbilityIndex = 1
+    Item = ORANBERRY
+    Nature = ADAMANT
+    IV = 20,20,15,18,5,16
+    EV = 8,8,4,12,1,5
+    Happiness = 200
+    Ball = POKEBALL
+Pokemon = STARLY,11
+    Gender = female
+    Moves = QUICKATTACK,WINGATTACK,DOUBLETEAM
+    AbilityIndex = 0
+    Item = MUSCLEBAND
+    Nature = ADAMANT
+    IV = 15,18,12,20,5,16
+    EV = 4,9,3,20,0,6
+    Happiness = 200
+    Ball = POKEBALL
+Pokemon = SENTRET,10
+    Gender = male
+    Moves = SURF,COVET,PURSUIT,COIL
+    AbilityIndex = 3
+    Item = WATERGEM
+    Nature = DOCILE
+    IV = 17,20,10,18,19,13
+    EV = 15,12,8,17,9,10
+    Happiness = 200
+    Ball = POKEBALL
+#-------------------------------
+[JOVEN,Marc]
+LoseText = Mi querido pokemon han perdido.
+Pokemon = URSARING,28
+    Gender = male
+    Moves = HEADBUTT,YAWN,SANDATTACK,PURSUIT
+    AbilityIndex = 1
+    Item = TOXICORB
+    Nature = ADAMANT
+    IV = 21,20,19,18,0,23
+    EV = 48,34,39,12,0,37
+    Happiness = 200
+    Ball = POKEBALL
+#-------------------------------
+[CHICA,Estela]
+LoseText = Jo, yo queria ganar.
+Pokemon = GULPIN,11
+    Gender = male
+    Moves = ENCORE,DESTINYBOND,SLUDGE
+    AbilityIndex = 1
+    Item = CUSTAPBERRY
+    Nature = CALM
+    IV = 15,2,10,5,10,10
+    EV = 0,0,10,3,6,8
+    Happiness = 200
+    Ball = POKEBALL
+Pokemon = TYMPOLE,13
+    Gender = female
+    Moves = BUBBLEBEAM,MUDSHOT,RAINDANCE
+    AbilityIndex = 1
+    Item = DAMPROCK
+    Nature = MODEST
+    IV = 15,8,12,20,15,17
+    EV = 12,2,10,8,12,6
+    Happiness = 200
+    Ball = POKEBALL
+Pokemon = BUIZEL,12
+    Gender = male
+    Moves = WATERPULSE,AQUAJET,ICYWIND,DOUBLETEAM
+    AbilityIndex = 0
+    Item = MYSTICWATER
+    Nature = QUIRKY
+    IV = 8,17,13,18,17,9
+    EV = 9,16,4,18,14,9
+    Happiness = 200
+    Ball = POKEBALL
+#-------------------------------
+[CHICA,Teresa]
+LoseText = Jo, que mala suerte.
+Pokemon = ALCREMIE,26
+    Gender = female
+    Moves = MAGICALLEAF,DRAININGKISS,MYSTICALFIRE,AROMATHERAPY
+    AbilityIndex = 0
+    Item = SITRUSBERRY
+    Nature = MODEST
+    IV = 23,12,20,16,22,23
+    EV = 41,6,21,12,35,38
+    Happiness = 200
+    Ball = LOVEBALL
+#-------------------------------
+[PREESCOLARF,Luna]
+LoseText = Nooooooo, mis pokemon bebés.
+Pokemon = PICHU,11
+    Gender = male
+    Moves = NUZZLE,DOUBLETEAM,LIGHTSCREEN,CHARGEBEAM
+    AbilityIndex = 0
+    Item = LIGHTCLAY
+    Nature = TIMID
+    IV = 12,5,10,20,16,9
+    EV = 7,2,6,23,10,8
+    Happiness = 200
+    Ball = POKEBALL
+Pokemon = TOGEPI,13
+    Gender = female
+    Moves = YAWN,WORKUP,BATONPASS,EXTRASENSORY
+    AbilityIndex = 1
+    Item = ORANBERRY
+    Nature = LONELY
+    IV = 18,5,19,9,14,20
+    EV = 19,1,23,9,19,17
+    Happiness = 200
+    Ball = POKEBALL
+Pokemon = SMOOCHUM,13
+    Gender = female
+    Moves = ICYWIND,PSYSHOCK,CHARGEBEAM
+    AbilityIndex = 0
+    Item = CHOICESCARF
+    Nature = MODEST
+    IV = 12,5,3,23,16,9
+    EV = 12,2,6,18,21,11
+    Happiness = 200
+    Ball = POKEBALL
+Pokemon = RIOLU,10
+    Gender = male
+    Moves = REVERSAL
+    AbilityIndex = 1
+    Item = FOCUSSASH
+    Nature = ADAMANT
+    IV = 0,26,0,19,0,0
+    EV = 0,38,0,21,0,0
+    Happiness = 200
+    Ball = POKEBALL
+Pokemon = MARILL,12
+    Gender = female
+    Moves = WATERFALL,PLAYROUGH,AQUAJET,ICEPUNCH
+    AbilityIndex = 1
+    Item = BERRYJUICE
+    Nature = ADAMANT
+    IV = 20,9,16,9,10,12
+    EV = 12,10,23,11,8,18
+    Happiness = 200
+    Ball = POKEBALL
+#-------------------------------
+[MUJER,Gloria]
+LoseText = Tendré que curar a mis pokemon.
+Pokemon = LOMBRE,12
+    Gender = female
+    Moves = FAKEOUT,BUBBLEBEAM,GIGADRAIN,KNOCKOFF
+    AbilityIndex = 0
+    Item = COBABERRY
+    Nature = MODEST
+    IV = 20,4,18,23,21,15
+    EV = 18,6,9,28,38,26
+    Happiness = 200
+    Ball = POKEBALL
+Pokemon = STUFFUL,12
+    Gender = male
+    Moves = STRENGTH,BRUTALSWING,STOMPINGTANTRUM,LOWSWEEP
+    AbilityIndex = 0
+    Item = NORMALGEM
+    Nature = ADAMANT
+    IV = 26,19,19,10,3,18
+    EV = 28,24,17,12,5,19
+    Happiness = 200
+    Ball = POKEBALL
+Pokemon = HELIOLISK,14
+    Gender = male
+    Moves = WATERGUN,SHOCKWAVE,RAZORWIND
+    AbilityIndex = 0
+    Item = POWERHERB
+    Nature = MODEST
+    IV = 14,7,14,20,21,16
+    EV = 16,4,9,30,27,18
+    Happiness = 200
+    Ball = POKEBALL
+#-------------------------------
+[NIÑAFLOTADOR,Claudia]
+LoseText = Noooo, mis pokemon de alola.
+Pokemon = GRUBBIN,14
+    Gender = female
+    AbilityIndex = 1
+    Item = COBABERRY
+    Nature = ADAMANT
+    IV = 17,19,12,14,8,10
+    EV = 20,27,10,14,6,7
+    Happiness = 200
+    Ball = POKEBALL
+Pokemon = SALANDIT,15
+    Gender = male
+    Moves = DRAGONRAGE
+    AbilityIndex = 0
+    Item = AIRBALLOON
+    Nature = TIMID
+    IV = 23,1,20,24,1,17
+    EV = 28,1,25,28,1,14
+    Happiness = 200
+    Ball = POKEBALL
+Pokemon = SANDYGAST,14
+    Gender = male
+    AbilityIndex = 0
+    Item = PASSHOBERRY
+    Nature = BOLD
+    IV = 17,15,20,11,15,10
+    EV = 18,21,24,8,19,26
+    Happiness = 200
+    Ball = POKEBALL
+#-------------------------------
+[NIÑOFLOTADOR,Marcos]
+LoseText = Noooo, mis formas regionales.
+Pokemon = MEOWTH,14
+    Form = 1
+    Gender = male
+    Moves = HYPNOSIS,FEINT,FAKEOUT,QUICKATTACK
+    AbilityIndex = 1
+    Item = DARKGEM
+    Nature = ADAMANT
+    IV = 17,19,12,14,8,10
+    EV = 20,27,10,14,6,7
+    Happiness = 200
+    Ball = POKEBALL
+Pokemon = DIGLETT,14
+    Form = 1
+    Gender = male
+    AbilityIndex = 1
+    Item = BERRYJUICE
+    Nature = ADAMANT
+    IV = 17,19,12,14,8,10
+    EV = 20,27,10,14,6,7
+    Happiness = 200
+    Ball = POKEBALL
+Pokemon = VULPIX,15
+    Form = 1
+    Gender = female
+    AbilityIndex = 1
+    Item = OCCABERRY
+    Nature = MODEST
+    IV = 17,15,20,11,15,10
+    EV = 18,21,14,1,19,26
+    Happiness = 200
+    Ball = POKEBALL
+#-------------------------------
+[MARINERO,Pedro]
+LoseText = Nooooo, mi tripulación.
+Pokemon = CRABRAWLER,15
+    Gender = male
+    Moves = DRAINPUNCH,BUBBLEBEAM,PURSUIT
+    AbilityIndex = 1
+    Item = SHELLBELL
+    Nature = MODEST
+    IV = 12,15,19,10,8,17
+    EV = 26,24,18,19,7,29
+    Happiness = 200
+    Ball = POKEBALL
+Pokemon = MAREANIE,15
+    Gender = female
+    Moves = TOXIC,BANEFULBUNKER,SPIKECANNON,WATERPULSE
+    AbilityIndex = 0
+    Item = SITRUSBERRY
+    Nature = ADAMANT
+    IV = 21,12,18,8,14,20
+    EV = 36,10,29,8,10,24
+    Happiness = 200
+    Ball = POKEBALL
+#-------------------------------
+[LIDER1,Gladio]
+LoseText = Hacia mucho que no disfrutaba tanto.
+Pokemon = MUDBRAY,15
+    Gender = male
+    Moves = BULLDOZE,SUBSTITUTE,ROCKTOMB,STEALTHROCK
+    AbilityIndex = 1
+    Item = BERRYJUICE
+    Nature = CAREFUL
+    IV = 25,26,25,20,12,23
+    EV = 34,29,28,20,5,28
+    Happiness = 200
+    Ball = POKEBALL
+Pokemon = TORRACAT,16
+    Gender = male
+    Moves = FAKEOUT,BITE,FIREFANG,DOUBLEKICK
+    AbilityIndex = 2
+    Item = ASSAULTVEST
+    Nature = ADAMANT
+    IV = 23,25,23,25,5,25
+    EV = 38,29,18,25,3,24
+    Happiness = 200
+    Ball = POKEBALL
+Pokemon = TYPENULL,17
+    Moves = CRUSHCLAW,PURSUIT,REST,SLEEPTALK
+    AbilityIndex = 0
+    Item = CHESTOBERRY
+    Nature = ADAMANT
+    IV = 25,26,24,25,4,24
+    EV = 34,26,20,18,1,23
+    Happiness = 200
+    Ball = BEASTBALL
+#-------------------------------
+[LIDER2,Oak]
+LoseText = Ha sido un combate increible.
+Pokemon = BLASTOISE,31
+    Gender = male
+    Moves = FLASHCANNON,WATERPULSE,ICYWIND,RAPIDSPIN
+    AbilityIndex = 2
+    Item = SITRUSBERRY
+    Nature = MODEST
+    IV = 30,0,30,30,30,30
+    EV = 40,20,35,20,45,32
+    Happiness = 200
+    Ball = POKEBALL
+Pokemon = VENUSAUR,31
+    Gender = male
+    Moves = LEECHSEED,MAGICALLEAF,SYNTHESIS,SLUDGE
+    AbilityIndex = 2
+    Item = LEFTOVERS
+    Nature = BOLD
+    IV = 30,0,30,30,30,30
+    EV = 40,10,32,20,38,48
+    Happiness = 200
+    Ball = POKEBALL
+Pokemon = CHARIZARD,31
+    Moves = AIRCUTTER,FLAMEBURST,DRAGONBREATH,ROOST
+    AbilityIndex = 2
+    Item = LIFEORB
+    Nature = MODEST
+    IV = 30,0,30,30,30,30
+    EV = 38,15,21,38,45,22
+    Happiness = 200
+    Ball = BEASTBALL
+#-------------------------------
+[LIDER2,Oak,1]
+LoseText = Ahora si que me has demostrado lo que vales.
+Pokemon = PIKACHU,33
+    Gender = male
+    Moves = THUNDERBOLT,SURF,DRAININGKISS,SIGNALBEAM
+    AbilityIndex = 2
+    Item = LIGHTBALL
+    Nature = TIMID
+    IV = 30,0,30,30,30,30
+    EV = 21,0,23,64,49,21
+    Happiness = 200
+    Ball = POKEBALL
+#-------------------------------
+[TEAMFLAREM,Recluta Pierre]
+LoseText = Uahhh, me retiraré con honor.
+Pokemon = SCRAGGY,16
+    Gender = male
+    Moves = BITE,SANDATTACK,PROTECT,LOWSWEEP
+    AbilityIndex = 2
+    Item = CHOPLEBERRY
+    Nature = ADAMANT
+    IV = 20,18,16,12,12,18
+    EV = 28,21,18,16,2,19
+    Happiness = 200
+    Ball = POKEBALL
+Pokemon = PURRLOIN,16
+    Gender = female
+    Moves = THUNDERWAVE,FAKEOUT,SNARL,SUBSTITUTE
+    AbilityIndex = 2
+    Item = BERRYJUICE
+    Nature = HARDY
+    IV = 18,15,18,20,20,14
+    EV = 23,20,18,26,35,12
+    Happiness = 200
+    Ball = ULTRABALL
+#-------------------------------
+[TEAMFLAREM,Recluta Louis]
+LoseText = Uahhh, me retiraré con honor.
+Pokemon = BUNNELBY,17
+    Gender = male
+    Moves = QUICKATTACK,BULLDOZE,DOUBLEKICK,ROCKTOMB
+    AbilityIndex = 2
+    Item = MUSCLEBAND
+    Nature = IMPISH
+    IV = 20,18,16,21,12,18
+    EV = 26,28,19,26,12,27
+    Happiness = 200
+    Ball = POKEBALL
+#-------------------------------
+[TEAMFLAREM,Recluta Frank]
+LoseText = Uahhh, increible.
+Pokemon = BINACLE,17
+    Gender = male
+    Moves = CLAMP,ROCKSLIDE,AERIALACE,POWERUPPUNCH
+    AbilityIndex = 0
+    Item = RINDOBERRY
+    Nature = ADAMANT
+    IV = 18,22,16,18,10,16
+    EV = 26,28,20,21,2,24
+    Happiness = 200
+    Ball = POKEBALL
+Pokemon = HONEDGE,18
+    Moves = SWORDSDANCE,SHADOWSNEAK,AERIALACE,FURYCUTTER
+    AbilityIndex = 0
+    Item = BERRYJUICE
+    Nature = ADAMANT
+    IV = 18,22,16,18,10,16
+    EV = 26,28,20,21,2,24
+    Happiness = 200
+    Ball = POKEBALL
+Pokemon = QUILLADIN,18
+    Gender = male
+    Moves = LEECHSEED,NEEDLEARM,BULKUP,BULLDOZE
+    AbilityIndex = 2
+    Item = QUICKCLAW
+    Nature = BOLD
+    IV = 19,20,15,20,12,18
+    EV = 23,26,18,26,18,12
+    Happiness = 200
+    Ball = ULTRABALL
+#-------------------------------
+[TEAMFLAREF,Recluta Susan]
+LoseText = Uahhh, increible.
+Pokemon = FLABEBE,16
+    Gender = female
+    Moves = DRAININGKISS,WISH,GIGADRAIN,ATTRACT
+    AbilityIndex = 1
+    Item = BIGROOT
+    Nature = BOLD
+    IV = 20,10,18,10,21,18
+    EV = 24,12,24,12,26,21
+    Happiness = 200
+    Ball = POKEBALL
+Pokemon = PANCHAM,17
+    Gender = female
+    Moves = LOWSWEEP,THUNDERPUNCH,FIREPUNCH,ICEPUNCH
+    AbilityIndex = 0
+    Item = EXPERTBELT
+    Nature = ADAMANT
+    IV = 18,22,16,18,10,16
+    EV = 26,28,20,21,2,24
+    Happiness = 200
+    Ball = POKEBALL
+Pokemon = FURFROU,17
+    Gender = female
+    Moves = SANDATTACK,HEADBUTT,UTURN,BITE
+    AbilityIndex = 2
+    Item = BERRYJUICE
+    Nature = JOLLY
+    IV = 19,20,15,20,12,18
+    EV = 23,26,18,26,18,12
+    Happiness = 200
+    Ball = ULTRABALL
+#-------------------------------
+[TEAMFLAREF,Recluta Sam]
+LoseText = Buen combate.
+Pokemon = INKAY,17
+    Gender = female
+    Moves = REFLECT,LIGHTSCREEN,HYPNOSIS,PAYBACK
+    AbilityIndex = 0
+    Item = LIGHTCLAY
+    Nature = IMPISH
+    IV = 20,20,18,20,11,18
+    EV = 24,22,24,12,16,21
+    Happiness = 200
+    Ball = POKEBALL
+Pokemon = SKRELP,19
+    Gender = female
+    Moves = MUDDYWATER,ACIDSPRAY,ICYWIND
+    AbilityIndex = 2
+    Item = MYSTICWATER
+    Nature = MODEST
+    IV = 18,12,16,18,20,16
+    EV = 21,8,26,29,34,27
+    Happiness = 200
+    Ball = POKEBALL
+#-------------------------------
+[TEAMFLAREAMAPOLA,Amapola]
+LoseText = Mmmmmmm, interesante.
+Pokemon = POOCHYENA,19
+    Gender = female
+    Moves = THIEF,ICEFANG,FIREFANG,THUNDERFANG
+    AbilityIndex = 0
+    Item = DARKGEM
+    Nature = ADAMANT
+    IV = 25,27,23,26,20,27
+    EV = 27,30,27,35,29,24
+    Happiness = 200
+    Ball = DUSKBALL
+Pokemon = DEDENNE,20
+    Gender = female
+    Moves = VOLTSWITCH,NUZZLE,DRAININGKISS,CHARM
+    AbilityIndex = 0
+    Item = SITRUSBERRY
+    Nature = BOLD
+    IV = 26,25,25,25,24,26
+    EV = 34,19,31,28,19,34
+    Happiness = 200
+    Ball = POKEBALL
+Pokemon = DRUDDIGON,21
+    Gender = male
+    Moves = DRAGONTAIL,ROCKTOMB,CRUNCH,BULLDOZE
+    AbilityIndex = 1
+    Item = EXPERTBELT
+    Nature = JOLLY
+    IV = 19,20,15,20,12,18
+    EV = 23,26,18,26,18,12
+    Happiness = 200
+    Ball = ULTRABALL
+#-------------------------------
+[TEAMFLAREMELIA,Melia]
+LoseText = Mmmmmmm, interesante.
+Pokemon = SNEASEL,21
+    Gender = female
+    Moves = SWORDSDANCE,ICESHARD,FEINTATTACK,LOWKICK
+    AbilityIndex = 2
+    Item = FOCUSSASH
+    Nature = ADAMANT
+    IV = 25,27,23,26,20,27
+    EV = 27,30,27,35,29,24
+    Happiness = 200
+    Ball = DUSKBALL
+Pokemon = ABSOL,21
+    Gender = female
+    Moves = PURSUIT,SLASH,AERIALACE,QUICKATTACK
+    AbilityIndex = 1
+    Item = SCOPELENS
+    Nature = ADAMANT
+    IV = 26,25,25,25,24,26
+    EV = 25,35,24,30,24,28
+    Happiness = 200
+    Ball = LUXURYBALL
+Pokemon = HOUNDOOM,22
+    Gender = female
+    Moves = SNARL,INCINERATE,NASTYPLOT,HEX
+    AbilityIndex = 1
+    Item = WISEGLASSES
+    Nature = MODEST
+    IV = 25,14,21,24,26,21
+    EV = 28,18,24,37,38,30
+    Happiness = 200
+    Ball = ULTRABALL
+#-------------------------------
+[TEAMFLAREXERO,Xero]
+LoseText = Nada mal.
+Pokemon = INKAY,21
+    Gender = male
+    Moves = NIGHTSLASH,PSYCHOCUT,HYPNOSIS,SUBSTITUTE
+    AbilityIndex = 0
+    Item = ROSELIBERRY
+    Nature = ADAMANT
+    IV = 25,27,23,26,20,27
+    EV = 27,30,27,35,29,24
+    Happiness = 200
+    Ball = DUSKBALL
+Pokemon = GOLBAT,21
+    Gender = female
+    Moves = TOXIC,PROTECT,ROOST,WINGATTACK
+    AbilityIndex = 1
+    Item = EVIOLITE
+    Nature = IMPISH
+    IV = 26,25,25,25,24,26
+    EV = 25,35,24,30,24,28
+    Happiness = 200
+    Ball = LUXURYBALL
+Pokemon = TREVENANT,22
+    Gender = female
+    Moves = SHADOWCLAW,LEECHSEED,WILLOWISP,RAZORLEAF
+    AbilityIndex = 2
+    Item = SITRUSBERRY
+    Nature = CAREFUL
+    IV = 25,14,21,24,26,21
+    EV = 28,18,24,37,38,30
+    Happiness = 200
+    Ball = ULTRABALL
+#-------------------------------
+[CALEYBEGO,Calendula y Begonia]
+LoseText = Nooooo, no nos lo podemos creer.
+Pokemon = SKORUPI,22
+    Gender = male
+    Moves = TOXICSPIKES,KNOCKOFF,POISONFANG,BUGBITE
+    AbilityIndex = 0
+    Item = BLACKSLUDGE
+    Nature = CAREFUL
+    IV = 25,27,23,26,20,27
+    EV = 27,34,27,35,24,24
+    Happiness = 200
+    Ball = POKEBALL
+Pokemon = PAWNIARD,22
+    Gender = female
+    Moves = METALCLAW,STEALTHROCK,AERIALACE,ASSURANCE
+    AbilityIndex = 0
+    Item = CHOPLEBERRY
+    Nature = ADAMANT
+    IV = 26,25,25,25,24,26
+    EV = 35,35,24,30,14,28
+    Happiness = 200
+    Ball = LUXURYBALL
+Pokemon = LIEPARD,23
+    Gender = female
+    Moves = THUNDERWAVE,FAKEOUT,SNARL,SUBSTITUTE
+    AbilityIndex = 2
+    Item = FOCUSSASH
+    Nature = HARDY
+    IV = 25,24,21,24,26,21
+    EV = 28,18,24,37,38,30
+    Happiness = 200
+    Ball = ULTRABALL
+Pokemon = BRAIXEN,23
+    Gender = female
+    Moves = PSYBEAM,INCINERATE,WILLOWISP,LIGHTSCREEN
+    AbilityIndex = 2
+    Item = EVIOLITE
+    Nature = MODEST
+    IV = 25,20,28,26,25,24
+    EV = 34,18,35,34,30,26
+    Happiness = 200
+    Ball = POKEBALL
+Pokemon = MANECTRIC,24
+    Gender = female
+    Moves = CHARGEBEAM,SNARL,PROTECT,FLAMEBURST
+    AbilityIndex = 0
+    Item = LIFEORB
+    Nature = MODEST
+    IV = 25,24,24,28,27,26
+    EV = 28,31,35,37,30,29
+    Happiness = 200
+    Ball = LUXURYBALL
+Pokemon = MAWILE,24
+    Gender = female
+    Moves = ROCKSLIDE,SUCKERPUNCH,FIREFANG,SWORDSDANCE
+    AbilityIndex = 1
+    Item = SITRUSBERRY
+    Nature = ADAMANT
+    IV = 25,27,27,24,24,24
+    EV = 27,36,34,24,20,28
+    Happiness = 200
+    Ball = ULTRABALL
+#-------------------------------
+[TEAMFLARELYSSON,Lysson]
+LoseText = Mmmmmmm, muy buen combate.
+Pokemon = KLEFKI,21
+    Moves = LIGHTSCREEN,REFLECT,THUNDERWAVE,DAZZLINGGLEAM
+    AbilityIndex = 0
+    Item = LIGHTCLAY
+    Nature = CALM
+    IV = 30,20,30,30,30,30
+    EV = 45,0,32,20,32,40
+    Happiness = 200
+    Ball = POKEBALL
+Pokemon = SYLVEON,21
+    Gender = female
+    Moves = DRAININGKISS,BABYDOLLEYES,SUBSTITUTE,MAGICALLEAF
+    AbilityIndex = 0
+    Item = LEFTOVERS
+    Nature = BOLD
+    IV = 30,0,30,30,30,30
+    EV = 50,0,36,28,36,40
+    Happiness = 200
+    Ball = POKEBALL
+Pokemon = MURKROW,22
+    Gender = male
+    Moves = WINGATTACK,ASSURANCE,ROOST,STEELWING
+    AbilityIndex = 1
+    Item = EVIOLITE
+    Nature = ADAMANT
+    IV = 30,30,30,30,10,30
+    EV = 38,52,38,40,0,37
+    Happiness = 200
+    Ball = ULTRABALL
+Pokemon = GYARADOS,23
+    Gender = male
+    Shiny = yes
+    Moves = DRAGONTAIL,BITE,ICEFANG,BULLDOZE
+    AbilityIndex = 0
+    Item = WACANBERRY
+    Nature = ADAMANT
+    IV = 30,30,30,30,0,30
+    EV = 38,38,27,42,0,38
+    Happiness = 200
+    Ball = POKEBALL
+#-------------------------------
+[CAMPISTA,Edu]
+LoseText = Grrr, veras a la próxima.
+Pokemon = LUXIO,23
+    Gender = male
+    Moves = THUNDERFANG,BITE,ICEFANG,IRONTAIL
+    AbilityIndex = 1
+    Item = ZAPPLATE
+    Nature = ADAMANT
+    IV = 20,20,18,20,11,18
+    EV = 28,32,28,31,8,29
+    Happiness = 200
+    Ball = POKEBALL
+Pokemon = PHANPY,26
+    Gender = male
+    Moves = FISSURE
+    AbilityIndex = 1
+    Item = ZOOMLENS
+    Nature = BOLD
+    IV = 24,0,24,24,0,24
+    EV = 50,0,50,50,0,50
+    Happiness = 200
+    Ball = POKEBALL
+#-------------------------------
+[CAMPISTA,Alberto]
+LoseText = Has demostrado tu fuerza.
+Pokemon = LOUDRED,26
+    Gender = male
+    Moves = WATERPULSE,ICYWIND,ROUND,SHOCKWAVE
+    AbilityIndex = 2
+    Item = CHOPLEBERRY
+    Nature = MODEST
+    IV = 22,10,20,20,23,18
+    EV = 34,9,33,41,39,39
+    Happiness = 200
+    Ball = LUXURYBALL
+Pokemon = LAIRON,26
+    Gender = male
+    Moves = IRONHEAD,ROCKSLIDE,AERIALACE,DOUBLETEAM
+    AbilityIndex = 0
+    Item = AIRBALLOON
+    Nature = CAREFUL
+    IV = 21,20,19,18,0,23
+    EV = 48,34,39,12,0,37
+    Happiness = 200
+    Ball = PREMIERBALL
+#-------------------------------
+[MONTAÑERO,Paco]
+LoseText = Vaya, un gran combate.
+Pokemon = GEODUDE,23
+    Gender = male
+    Moves = SELFDESTRUCT
+    AbilityIndex = 1
+    Item = NORMALGEM
+    Nature = ADAMANT
+    IV = 0,31,0,0,0,0
+    EV = 0,70,0,0,0,0
+    Happiness = 200
+    Ball = DUSKBALL
+Pokemon = GEODUDE,24
+    Gender = male
+    Moves = ROCKTOMB,BULLDOZE,FIREPUNCH,BRICKBREAK
+    AbilityIndex = 1
+    Item = EVIOLITE
+    Nature = BOLD
+    IV = 21,20,19,18,0,23
+    EV = 48,34,39,12,0,37
+    Happiness = 200
+    Ball = DUSKBALL
+Pokemon = GRAVELER,25
+    Form = 1
+    Gender = male
+    Moves = THUNDERPUNCH,ROCKSLIDE,BULLDOZE,THUNDERWAVE
+    AbilityIndex = 1
+    Item = AIRBALLOON
+    Nature = ADAMANT
+    IV = 21,20,19,18,0,23
+    EV = 48,34,39,12,0,37
+    Happiness = 200
+    Ball = PREMIERBALL
+#-------------------------------
+[MONTAÑERO,Luis]
+LoseText = Me he perdido en tu estrategia.
+Pokemon = BOLDORE,24
+    Gender = male
+    Moves = STEALTHROCK,MUDSHOT,IRONDEFENSE,ANCIENTPOWER
+    AbilityIndex = 0
+    Item = CHOPLEBERRY
+    Nature = IMPISH
+    IV = 21,20,19,18,0,23
+    EV = 48,34,39,12,0,37
+    Happiness = 200
+    Ball = DUSKBALL
+Pokemon = NOSEPASS,25
+    Gender = male
+    Moves = THUNDERWAVE,ROCKSLIDE,SPARK,REST
+    AbilityIndex = 0
+    Item = CHESTOBERRY
+    Nature = CAREFUL
+    IV = 21,20,19,18,0,23
+    EV = 48,34,39,12,0,37
+    Happiness = 200
+    Ball = PREMIERBALL
+Pokemon = SUDOWOODO,25
+    Gender = male
+    Moves = MIMIC,ROCKSLIDE,SUCKERPUNCH,LOWKICK
+    AbilityIndex = 1
+    Item = SITRUSBERRY
+    Nature = ADAMANT
+    IV = 21,20,19,18,0,23
+    EV = 48,34,39,12,0,37
+    Happiness = 200
+    Ball = HEAVYBALL
+#-------------------------------
+[MONTAÑERO,Juan]
+LoseText = Impresionante.
+Pokemon = SILICOBRA,25
+    Gender = male
+    Moves = GLARE,BULLDOZE,MINIMIZE,BRUTALSWING
+    AbilityIndex = 0
+    Item = SMOOTHROCK
+    Nature = IMPISH
+    IV = 21,20,19,18,0,23
+    EV = 48,34,39,12,0,37
+    Happiness = 200
+    Ball = DUSKBALL
+Pokemon = KROKOROK,26
+    Gender = male
+    Moves = CRUNCH,DIG,ROCKTOMB,AERIALACE
+    AbilityIndex = 0
+    Item = POWERHERB
+    Nature = CAREFUL
+    IV = 21,20,19,18,0,23
+    EV = 48,34,39,12,0,37
+    Happiness = 200
+    Ball = PREMIERBALL
+#-------------------------------
+[KARATEKA,Jesus]
+LoseText = Kiaaaaa, he perdido.
+Pokemon = MACHOP,24
+    Gender = male
+    Moves = PROTECT,LOWSWEEP,THIEF,DUALCHOP
+    AbilityIndex = 0
+    Item = TOXICORB
+    Nature = ADAMANT
+    IV = 21,20,19,18,0,23
+    EV = 48,34,39,12,0,37
+    Happiness = 200
+    Ball = DUSKBALL
+Pokemon = GURDURR,24
+    Gender = male
+    Moves = SMACKDOWN,MACHPUNCH,ICEPUNCH,KNOCKOFF
+    AbilityIndex = 0
+    Item = ASSAULTVEST
+    Nature = ADAMANT
+    IV = 21,20,19,18,0,23
+    EV = 48,34,39,12,0,37
+    Happiness = 200
+    Ball = PREMIERBALL
+#-------------------------------
+[KARATEKA,Sebas]
+LoseText = Kiaaaaa, he perdido.
+Pokemon = HITMONTOP,25
+    Gender = male
+    Moves = FAKEOUT,TRIPLEKICK,TRIPLEAXEL,RAPIDSPIN
+    AbilityIndex = 0
+    Item = BLACKBELT
+    Nature = ADAMANT
+    IV = 21,20,19,18,0,23
+    EV = 48,34,39,12,0,37
+    Happiness = 200
+    Ball = DUSKBALL
+Pokemon = HITMONLEE,25
+    Gender = male
+    Moves = BRICKBREAK,FAKEOUT,BLAZEKICK,BOUNCE
+    AbilityIndex = 2
+    Item = SITRUSBERRY
+    Nature = ADAMANT
+    IV = 21,20,19,18,0,23
+    EV = 48,34,39,12,0,37
+    Happiness = 200
+    Ball = PREMIERBALL
+Pokemon = HITMONCHAN,25
+    Gender = male
+    Moves = DRAINPUNCH,FIREPUNCH,ICEPUNCH,BULLETPUNCH
+    AbilityIndex = 1
+    Item = EXPERTBELT
+    Nature = ADAMANT
+    IV = 21,20,19,18,0,23
+    EV = 48,34,39,12,0,37
+    Happiness = 200
+    Ball = PREMIERBALL
+#-------------------------------
+[DOMINGUERA,Sheila]
+LoseText = Joooo, me has ganado.
+Pokemon = MILTANK,25
+    Gender = female
+    Moves = MILKDRINK,ZENHEADBUTT,STOMP,ATTRACT
+    AbilityIndex = 0
+    Item = LUMBERRY
+    Nature = ADAMANT
+    IV = 21,20,19,18,0,23
+    EV = 48,34,39,12,0,37
+    Happiness = 200
+    Ball = DUSKBALL
+#-------------------------------
+[CIENTIFICO,Mario]
+LoseText = Mmmmmmm, interesante.
+Pokemon = COMBUSKEN,27
+    Gender = male
+    Moves = FIREPUNCH,LOWSWEEP,BULKUP,FEATHERDANCE
+    AbilityIndex = 2
+    Item = EXPERTBELT
+    Nature = JOLLY
+    IV = 21,20,19,18,0,23
+    EV = 48,34,39,12,0,37
+    Happiness = 200
+    Ball = ULTRABALL
+Pokemon = GROVYLE,27
+    Gender = male
+    Moves = GIGADRAIN,DETECT,DOUBLETEAM,ROUND
+    AbilityIndex = 2
+    Item = SITRUSBERRY
+    Nature = MODEST
+    IV = 20,16,23,21,23,16
+    EV = 37,5,42,39,51,39
+    Happiness = 200
+    Ball = ULTRABALL
+Pokemon = MARSHTOMP,27
+    Gender = male
+    Moves = ROCKSLIDE,BULLDOZE,WATERFALL,ICEPUNCH
+    AbilityIndex = 0
+    Item = RINDOBERRY
+    Nature = ADAMANT
+    IV = 21,20,19,18,0,23
+    EV = 48,34,39,12,0,37
+    Happiness = 200
+    Ball = TIMERBALL
+#-------------------------------
+[CIENTIFICO,Agustin]
+LoseText = He de estudiarte mejor.
+Pokemon = SERVINE,29
+    Gender = male
+    Moves = LEECHSEED,GIGADRAIN,SYNTHESIS,WRAP
+    AbilityIndex = 2
+    Item = LEFTOVERS
+    Nature = MODEST
+    IV = 20,16,23,21,23,16
+    EV = 37,5,42,39,51,39
+    Happiness = 200
+    Ball = POKEBALL
+Pokemon = PIGNITE,29
+    Gender = male
+    Moves = ASSURANCE,FIREPUNCH,THUNDERPUNCH,BRICKBREAK
+    AbilityIndex = 2
+    Item = SITRUSBERRY
+    Nature = ADAMANT
+    IV = 21,20,19,18,0,23
+    EV = 48,34,39,12,0,37
+    Happiness = 200
+    Ball = ULTRABALL
+Pokemon = DEWOTT,29
+    Gender = male
+    Moves = RAZORSHELL,KNOCKOFF,AERIALACE,XSCISSOR
+    AbilityIndex = 2
+    Item = MUSCLEBAND
+    Nature = ADAMANT
+    IV = 21,20,19,18,0,23
+    EV = 48,34,39,12,0,37
+    Happiness = 200
+    Ball = POKEBALL
+#-------------------------------
+[CIENTIFICA,Patty]
+LoseText = Que sujeto mas interesante.
+Pokemon = DRIZZILE,28
+    Gender = male
+    Moves = WATERPULSE,UTURN,FOCUSENERGY,ROUND
+    AbilityIndex = 2
+    Item = SCOPELENS
+    Nature = MODEST
+    IV = 20,16,23,21,23,16
+    EV = 37,5,42,39,51,39
+    Happiness = 200
+    Ball = POKEBALL
+Pokemon = RABOOT,28
+    Gender = male
+    Moves = FIREPUNCH,DOUBLEKICK,UTURN,ASSURANCE
+    AbilityIndex = 2
+    Item = EXPERTBELT
+    Nature = ADAMANT
+    IV = 21,20,19,18,0,23
+    EV = 48,34,39,12,0,37
+    Happiness = 200
+    Ball = ULTRABALL
+Pokemon = THWACKEY,28
+    Gender = male
+    Moves = SEEDBOMB,KNOCKOFF,ACROBATICS,DRAINPUNCH
+    AbilityIndex = 2
+    Item = GRASSYSEED
+    Nature = ADAMANT
+    IV = 21,20,19,18,0,23
+    EV = 48,34,39,12,0,37
+    Happiness = 200
+    Ball = TIMERBALL
