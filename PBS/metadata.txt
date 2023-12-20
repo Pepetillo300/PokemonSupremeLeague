@@ -17,13 +17,13 @@ TrainerType = PROTAGONISTA_M
 WalkCharset = OvProtagonistaM
 RunCharset = OvProtagonistaMCorre
 CycleCharset = OvProtagonistaMBici
-SurfCharset = boy_surf
+SurfCharset = OvProtagonistaMSurf_offset
 FishCharset = OvProtagonistaMPesca_offset
 #-------------------------------
 [2]
 TrainerType = PROTAGONISTA_F
-WalkCharset = trainer_POKEMONTRAINER_Leaf
-RunCharset = girl_run
-CycleCharset = girl_bike
-SurfCharset = girl_surf
-FishCharset = girl_fish_offset
+WalkCharset = OvProtagonistaF
+RunCharset = OvProtagonistaFCorre
+CycleCharset = OvProtagonistaFBici
+SurfCharset = OvProtagonistaFSurf_offset
+FishCharset = OvProtagonistaFPesca_offset

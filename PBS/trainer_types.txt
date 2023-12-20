@@ -101,6 +101,13 @@ BaseMoney = 15
 SkillLevel = 60
 IntroBGM = Intro Preescolar 4gen
 #-------------------------------
+[HOMBRE]
+Name = Hombre
+Gender = Male
+BaseMoney = 50
+SkillLevel = 70
+IntroBGM = Intro Hombre 4gen
+#-------------------------------
 [MUJER]
 Name = Mujer
 Gender = Female
@@ -133,7 +140,7 @@ IntroBGM = Intro Marinero 4gen
 Name = Lider
 Gender = Male
 BaseMoney = 50
-SkillLevel = 255
+SkillLevel = 95
 Flags = ReserveLastPokemon
 BattleBGM = Battle Gladio
 VictoryBGM = Battle victory leader
@@ -246,6 +253,29 @@ IntroBGM = Intro Cientifico
 Name = Lider
 Gender = Male
 BaseMoney = 60
-SkillLevel = 90
+SkillLevel = 95
 BattleBGM = Battle Oak Lance
+VictoryBGM = Battle victory leader
+#-------------------------------
+[ENTRENADORGUAYM]
+Name = Entre. Guay
+Gender = Male
+BaseMoney = 70
+SkillLevel = 80
+IntroBGM = Intro Entrenador Guay 4gen
+#-------------------------------
+[ENTRENADORGUAYF]
+Name = Entre. Guay
+Gender = Female
+BaseMoney = 70
+SkillLevel = 80
+IntroBGM = Intro Entrenador Guay 4gen
+#-------------------------------
+[LIDER3]
+Name = Lider
+Gender = Male
+BaseMoney = 65
+SkillLevel = 95
+Flags = ReserveLastPokemon
+BattleBGM = Battle Paul
 VictoryBGM = Battle victory leader

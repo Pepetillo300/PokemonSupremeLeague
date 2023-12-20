@@ -41,7 +41,7 @@ class Game_System
 end
 
 #Define all your levels caps in this array. Every time you run Game.level_cap_update, it will move to the next level cap in the array.
-LEVEL_CAP = [14,17,22,24,28,31]
+LEVEL_CAP = [14,17,22,24,28,31,35,39]
 
 
 module Level_Cap

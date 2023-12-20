@@ -61,11 +61,13 @@ def get_relearnable_moves(pkmn)
     next if m[0] > pkmn.level || pkmn.hasMove?(m[1])
     moves.push(m[1]) if !moves.include?(m[1])
   end
-  GameData::Species.get(pkmn.species).get_egg_moves.each do |m|
-    next if pkmn.hasMove?(m)
-    moves.push(m)
+  if $game_switches[Settings::EGGMOVESSWITCH] && pkmn.first_moves || RELEARNABLEEGGMOVES == true && pkmn.first_moves
+    GameData::Species.get(pkmn.species).get_egg_moves.each do |m|
+      next if pkmn.hasMove?(m)
+      moves.push(m)
+    end
   end
-  if $game_switches[Settings::EGGMOVESSWITCH] && pkmn.first_moves || RELEARNABLEEGGMOVES ==true && pkmn.first_moves
+  if $game_switches[Settings::EGGMOVESSWITCH] && pkmn.first_moves || RELEARNABLEEGGMOVES == true && pkmn.first_moves
     tmoves = []
     pkmn.first_moves.each do |i|
       tmoves.push(i) if !moves.include?(i) && !pkmn.hasMove?(i)
