@@ -3,7 +3,7 @@
 [0]
 StartMoney = 3000
 StartItemStorage = ORANBERRY
-Home = 8,6,13,8
+Home = 7,6,12,8
 StorageCreator = Bill
 WildBattleBGM = Battle wild
 TrainerBattleBGM = Battle trainer
